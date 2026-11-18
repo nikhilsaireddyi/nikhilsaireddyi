@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="256" viewBox="0 0 540 256" role="img" aria-label="INTERACTIVE PORTFOLIO. A modern digital playground with motion. Next.js and TypeScript foundations. Anime.js creative motion and interaction. Modular UI and component architecture. NEXT.JS / REACT / TYPESCRIPT / ANIME.JS">
+<defs>
+<linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1020"/><stop offset=".58" stop-color="#1B2134"/><stop offset="1" stop-color="#111526"/></linearGradient>
+<linearGradient id="champagne" x1="0" y1="0" x2="1"><stop stop-color="#B58B56"/><stop offset=".47" stop-color="#F7DDB4"/><stop offset=".7" stop-color="#E8BB70"/><stop offset="1" stop-color="#C29A69"/></linearGradient>
+<pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#AE9676" opacity=".13"/></pattern>
+</defs>
+<rect width="540" height="256" rx="15" fill="url(#night)"/>
+<rect width="540" height="256" rx="15" fill="url(#dots)"/>
+<rect x="1.5" y="1.5" width="537" height="253" rx="13" stroke="#977956" stroke-opacity=".56" fill="none" stroke-width="1.5"/>
+<path d="M28 25H145M388 231H512" fill="none" stroke="#E8BB70" stroke-width="2.3" stroke-linecap="round"/>
+<text x="27" y="49" font-family="monospace" font-size="14" fill="#E8BB70" letter-spacing="2">PROJECT 02 / ENGINEERING HIGHLIGHTS</text>
+<text x="27" y="89" font-family="Arial,Helvetica,sans-serif" font-size="31" fill="#E8BB70" font-weight="800" letter-spacing="-0.5">INTERACTIVE PORTFOLIO</text>
+<text x="28" y="119" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#F8E8CF" font-weight="500" letter-spacing="0">A modern digital playground with motion</text>
+<circle cx="36" cy="147" r="3.5" fill="#E8BB70"/><text x="51" y="153" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#F8E8CF" font-weight="500" letter-spacing="0">Next.js and TypeScript foundations</text>
+<circle cx="36" cy="174" r="3.5" fill="#E8BB70"/><text x="51" y="180" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#F8E8CF" font-weight="500" letter-spacing="0">Anime.js creative motion and interaction</text>
+<circle cx="36" cy="201" r="3.5" fill="#E8BB70"/><text x="51" y="207" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#F8E8CF" font-weight="500" letter-spacing="0">Modular UI and component architecture</text>
+<text x="28" y="235" font-family="monospace" font-size="12" fill="#C0A98B" letter-spacing="2">NEXT.JS / REACT / TYPESCRIPT / ANIME.JS</text>
+
+</svg>
