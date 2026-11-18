@@ -1,0 +1,8 @@
+<svg width="720" height="250" viewBox="0 0 720 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="b" x1="0" y1="0" x2="720" y2="250"><stop stop-color="#17242A"/><stop offset="1" stop-color="#344A4D"/></linearGradient><linearGradient id="a" x1="80" y1="0" x2="620" y2="220"><stop stop-color="#D7B77A"/><stop offset="1" stop-color="#A7C0B5"/></linearGradient></defs>
+<rect width="720" height="250" rx="18" fill="url(#b)"/>
+<circle cx="575" cy="126" r="82" stroke="#DCE5DF" stroke-opacity=".15" stroke-width="1.5"/><circle cx="575" cy="126" r="60" stroke="#DCE5DF" stroke-opacity=".22" stroke-dasharray="3 7"/>
+<path d="M575 77V132" stroke="url(#a)" stroke-width="9" stroke-linecap="round"/><circle cx="575" cy="153" r="23" fill="url(#a)"/><path d="M575 94V151" stroke="#26363A" stroke-opacity=".7" stroke-width="3"/>
+<path d="M90 177C150 145 204 157 260 120C306 90 354 105 410 74" stroke="url(#a)" stroke-width="3" stroke-linecap="round"/><circle cx="90" cy="177" r="4" fill="#D7B77A"/><circle cx="260" cy="120" r="4" fill="#D7B77A"/><circle cx="410" cy="74" r="4" fill="#A7C0B5"/>
+<text x="58" y="76" fill="#AFC0BC" font-family="Arial" font-size="13" letter-spacing="3">AI · CLIMATE · SAFETY</text><text x="56" y="116" fill="#F3F1E9" font-family="Arial" font-size="34" font-weight="600">HeatShield AI</text><text x="58" y="210" fill="#B9C6C2" font-family="Arial" font-size="14">Turning environmental signals into safer decisions.</text>
+</svg>
