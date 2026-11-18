@@ -1,160 +1,117 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nikhilsaireddyi/nikhilsaireddyi/main/assets/name-masthead.svg?v=8e56fed7a4a5c211f484f31556afdb1b46e4452a" width="100%" alt="Nikhil Sai Reddy" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2200&pause=700&color=E04444&center=true&vCenter=true&width=850&lines=AI%2FML+BUILDER;SOFTWARE+DEVELOPER;PRODUCT+BUILDER;FRONTEND+DEVELOPER;BUILD.+LEARN.+EVOLVE." alt="Animated developer roles" />
+<img src="./assets/profile-hero-v3.svg" alt="Nikhil Sai Reddy — AI, Software, Creative Engineering" width="100%" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-&nbsp;
-<a href="https://nikhil-portfolio-mai54drkv-vibex1.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=E04444" alt="Portfolio" /></a>
-&nbsp;
-<a href="mailto:nikhilsaireddyi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=nikhilsaireddyi&label=VIEWS&color=E04444&style=for-the-badge" alt="Profile views" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2300&pause=950&color=F87171&center=true&vCenter=true&width=750&lines=AI%2FML+BUILDER;FRONTEND+DEVELOPER;CREATIVE+PROBLEM+SOLVER;BUILD.+LEARN.+EVOLVE." alt="Animated introduction: AI/ML builder, frontend developer" />
+
+**CSE (AI & ML) student · Building thoughtful digital experiences**
+
+<sub>📍 Visakhapatnam, India · NIAT</sub>
 
 <br/><br/>
 
-**AI&nbsp; × &nbsp;SOFTWARE&nbsp; × &nbsp;PRODUCT BUILDING**
+<a href="https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432"><img src="https://img.shields.io/badge/LinkedIn-11131B?style=for-the-badge&logo=linkedin&logoColor=F87171" alt="LinkedIn"/></a>
+<a href="https://nikhil-portfolio-mai54drkv-vibex1.vercel.app"><img src="https://img.shields.io/badge/Portfolio-11131B?style=for-the-badge&logo=vercel&logoColor=F87171" alt="Portfolio"/></a>
+<a href="mailto:nikhilsaireddyi@gmail.com"><img src="https://img.shields.io/badge/Email-11131B?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email"/></a>
 
-<sub>Computer Science · Artificial Intelligence & Machine Learning · NIAT, Visakhapatnam</sub>
+<br/>
 
-*Curious by nature. Building with intent.*
+<img src="https://komarev.com/ghpvc/?username=nikhilsaireddyi&label=PROFILE+VIEWS&color=ef4444&style=flat-square" alt="Profile views"/>
 
 </div>
+
 ---
 
-## 👨‍💻 About Me
+### `01 / ABOUT`
 
-```js
+```typescript
 const nikhil = {
   name: "Nikhil Sai Reddy",
-  education: "B.Tech — CSE (AI & ML)",
-  institute: "NIAT, Visakhapatnam",
-  roles: ["AI/ML Builder", "Software Developer", "Product Builder", "Frontend Developer"],
-  interests: ["Artificial Intelligence", "Large Language Models", "Full-Stack Development", "Developer Experience", "Product Design"],
-  currentMission: "Turn ideas into useful, thoughtfully built products.",
-  motto: "BUILD. LEARN. EVOLVE."
-};
+  location: "Visakhapatnam, India",
+  studying: "B.Tech — CSE (AI & ML)",
+  focus: ["Artificial Intelligence", "Frontend Engineering", "Product Design"],
+  currentMission: "Learn deeply. Build consistently.",
+  motto: "BUILD. LEARN. EVOLVE.",
+} as const;
 ```
 
-I enjoy exploring the intersection of **AI, software engineering, and product design**. I like taking an idea from an early concept to a working experience, learning the engineering behind it along the way.
+I'm exploring the intersection of **AI, software engineering and design**. I learn by turning ideas into working experiences — thoughtful code, intuitive interfaces and practical experiments.
 
-> **I learn by building — and build to solve real problems.**
+> Curious by nature. Building with intent.
 
----
-
-## ⚡ Tech Stack
+### `02 / ENGINEERING TOOLKIT`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,c,react,nextjs,tailwind,nodejs,git,github,vscode&perline=6&theme=dark" alt="Python, TypeScript, JavaScript, C, React, Next.js, Tailwind CSS, Node.js, Git, GitHub and VS Code" />
-
-</div>
-
-### AI & Development
-
-![Artificial Intelligence](https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-151515?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LARGE_LANGUAGE_MODELS-E04444?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/PROMPT_ENGINEERING-151515?style=for-the-badge)
-![AI Applications](https://img.shields.io/badge/AI_APPLICATIONS-E04444?style=for-the-badge)
-![Frontend](https://img.shields.io/badge/FRONTEND_DEVELOPMENT-151515?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Product Building](https://img.shields.io/badge/PRODUCT_BUILDING-E04444?style=for-the-badge)
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Focus |
-|---|---|---|
-| [**HeatShield AI**](https://github.com/nikhilsaireddyi/HeatSheild-AI-) | AI-assisted heat-risk awareness and practical worker-safety insights | AI · Climate · Safety |
-| [**GANESH: THE QUEST**](https://github.com/nikhilsaireddyi/ganesh-the-quest) | A festival-inspired 3D adventure game built around an interactive experience | 3D · Game Development |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nikhilsaireddyi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E04444&icon_color=E04444&text_color=E6E6E6&rank_icon=github" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsaireddyi&layout=compact&hide_border=true&bg_color=0D1117&title_color=E04444&text_color=E6E6E6" alt="Most used languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nikhilsaireddyi&theme=dark&hide_border=true&background=0D1117&ring=E04444&fire=E04444&currStreakLabel=E04444" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nikhilsaireddyi&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsaireddyi&bg_color=0d1117&color=e6e6e6&line=e04444&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-
-</div>
-
----
-
-## 🎯 Currently Exploring
-
-```text
-⚡ AI-powered applications and practical LLM workflows
-🤖 Machine learning concepts and intelligent product experiences
-💻 Full-stack development with modern web technologies
-🎨 Thoughtful interfaces and polished user experiences
-🛠️ Turning ideas into useful, real-world projects
-```
-
----
-
-## 🧠 Developer Philosophy
-
-<div align="center">
-
-### BUILD. LEARN. EVOLVE.
-
-**Explore deeply. Build thoughtfully. Improve continuously.**
-
-*The best way to understand technology is to create something meaningful with it.*
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ NIKHIL SAI REDDY
-
-**AI × SOFTWARE × PRODUCT BUILDING**
-
-<br/>
-
-<a href="https://github.com/nikhilsaireddyi">GITHUB</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432">LINKEDIN</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://nikhil-portfolio-mai54drkv-vibex1.vercel.app">PORTFOLIO</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:nikhilsaireddyi@gmail.com">CONTACT</a>
+<img src="https://skillicons.dev/icons?i=python,ts,js,c,react,nextjs,tailwind,nodejs,git,github,vscode&perline=6&theme=dark" alt="Python, TypeScript, JavaScript, C, React, Next.js, Tailwind, Node.js, Git, GitHub, VS Code"/>
 
 <br/><br/>
 
-<sub>© Nikhil Sai Reddy · Built with curiosity and intention.</sub>
+![AI](https://img.shields.io/badge/EXPLORING-AI%20%26%20ML-ef4444?style=flat-square&labelColor=11131b)
+![LLMs](https://img.shields.io/badge/LEARNING-LLM%20APPLICATIONS-ef4444?style=flat-square&labelColor=11131b)
+![Frontend](https://img.shields.io/badge/BUILDING-CREATIVE%20FRONTENDS-ef4444?style=flat-square&labelColor=11131b)
+
+</div>
+
+### `03 / SELECTED WORK`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[GANESH: THE QUEST](https://github.com/nikhilsaireddyi/ganesh-the-quest)**
+
+A festival-inspired interactive game experiment.
+
+`Game development` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+**[NIKHIL — PORTFOLIO](https://github.com/nikhilsaireddyi/Nikhil)**
+
+A personal web experience exploring modern interfaces and creative engineering.
+
+`Frontend` `TypeScript`
+
+</td>
+</tr>
+</table>
+
+<sub>Other experiments are in progress. Private repositories are intentionally not presented as public projects.</sub>
+
+### `04 / GITHUB ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nikhilsaireddyi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F87171&icon_color=FB7185&text_color=D1D5DB" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsaireddyi&layout=compact&hide_border=true&bg_color=0D1117&title_color=F87171&text_color=D1D5DB" alt="Top languages" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=nikhilsaireddyi&theme=dark&hide_border=true&background=0D1117&ring=F87171&fire=FB7185&currStreakLabel=F87171" alt="GitHub streak"/>
+
+</div>
+
+<sub>Stats are generated by third-party services and may occasionally be unavailable.</sub>
+
+### `05 / CURRENTLY BUILDING`
+
+- 🧠 Strengthening **AI / ML foundations**
+- ⚡ Developing with **TypeScript and React**
+- 🎨 Exploring **motion, interaction and UX**
+- 🚀 Turning experiments into useful products
+
+---
+
+<div align="center">
+
+### `BUILD. LEARN. EVOLVE.`
+
+**Explore deeply · Build thoughtfully · Improve continuously**
+
+<a href="https://github.com/nikhilsaireddyi">GitHub</a> · <a href="https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432">LinkedIn</a> · <a href="https://nikhil-portfolio-mai54drkv-vibex1.vercel.app">Portfolio</a>
+
+<sub>© Nikhil Sai Reddy · Crafted with curiosity.</sub>
 
 </div>
