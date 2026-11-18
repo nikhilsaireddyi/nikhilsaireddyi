@@ -5,11 +5,11 @@
 
 <br/>
 
-### I turn curiosity into interactive experiences.
+<h3>I turn curiosity into interactive experiences.</h3>
 
-I'm a **CSE (AI & ML) student in Visakhapatnam** building expressive web interfaces and experimenting with intelligent systems.
+<p>I'm a <strong>CSE (AI &amp; ML) student in Visakhapatnam</strong> building expressive web interfaces and experimenting with intelligent systems.</p>
 
-**Frontend development • Creative engineering • Learning AI/ML**
+<p><strong>Frontend development · Creative engineering · Learning AI/ML</strong></p>
 
 <br/>
 
@@ -32,51 +32,37 @@ I'm a **CSE (AI & ML) student in Visakhapatnam** building expressive web interfa
 <table>
 <tr>
 <td width="50%" valign="top">
-
-<a href="https://github.com/nikhilsaireddyi/ganesh-the-quest"><img src="./assets/project-ganesh.svg" alt="Ganesh: The Quest — game project artwork" width="100%"/></a>
-
-### [Ganesh: The Quest ↗](https://github.com/nikhilsaireddyi/ganesh-the-quest)
-
-A story-driven browser adventure set during Ganesh Chaturthi, built around an original 2.5D-style Canvas rendering engine.
-
-**What I worked on**
-- Custom scene, input and camera systems
-- Procedurally generated sound with the Web Audio API
-- Interactive festival missions and environments
-
-<sub>JAVASCRIPT · CANVAS 2D · WEB AUDIO · VITE</sub>
-
-<br/>
-
-**[View the source →](https://github.com/nikhilsaireddyi/ganesh-the-quest)**
-
+<a href="https://github.com/nikhilsaireddyi/ganesh-the-quest"><img src="./assets/project-ganesh.svg" alt="Ganesh: The Quest — festival adventure game" width="100%"/></a>
+<h3><a href="https://github.com/nikhilsaireddyi/ganesh-the-quest">Ganesh: The Quest ↗</a></h3>
+<p>A story-driven browser adventure for Ganesh Chaturthi, built around a custom 2.5D-style Canvas engine.</p>
+<p><strong>What I built</strong></p>
+<ul>
+<li>Scene, input and camera systems</li>
+<li>Procedural audio using the Web Audio API</li>
+<li>Interactive festival missions and environments</li>
+</ul>
+<p><code>JavaScript</code> <code>Canvas 2D</code> <code>Web Audio</code></p>
+<p><a href="https://github.com/nikhilsaireddyi/ganesh-the-quest"><strong>Explore source code →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-
-<a href="https://github.com/nikhilsaireddyi/Nikhil"><img src="./assets/project-portfolio.svg" alt="Digital Playground — portfolio project artwork" width="100%"/></a>
-
-### [Interactive Portfolio ↗](https://github.com/nikhilsaireddyi/Nikhil)
-
-A personal digital playground where deliberate interaction, motion and creative coding come together.
-
-**What I worked on**
-- Component-based frontend architecture
-- Motion and interaction with Anime.js
-- A TypeScript and Next.js-powered web experience
-
-<sub>NEXT.JS · REACT · TYPESCRIPT · ANIME.JS</sub>
-
-<br/>
-
-**[Explore the code →](https://github.com/nikhilsaireddyi/Nikhil)**
-
+<a href="https://github.com/nikhilsaireddyi/Nikhil"><img src="./assets/project-portfolio.svg" alt="Interactive Portfolio — modern web experience" width="100%"/></a>
+<h3><a href="https://github.com/nikhilsaireddyi/Nikhil">Interactive Portfolio ↗</a></h3>
+<p>A digital playground where modern frontend architecture meets creative motion and interaction.</p>
+<p><strong>What I built</strong></p>
+<ul>
+<li>Component-based frontend architecture</li>
+<li>Animation and interaction with Anime.js</li>
+<li>TypeScript and Next.js-powered experience</li>
+</ul>
+<p><code>Next.js</code> <code>TypeScript</code> <code>Anime.js</code></p>
+<p><a href="https://github.com/nikhilsaireddyi/Nikhil"><strong>Explore source code →</strong></a></p>
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-**[↗ Explore the portfolio experience](https://nikhil-portfolio-vibex1.vercel.app)** &nbsp; · &nbsp; **[↗ Browse all public repositories](https://github.com/nikhilsaireddyi?tab=repositories)**
+<a href="https://nikhil-portfolio-vibex1.vercel.app"><strong>↗ Explore the portfolio</strong></a> &nbsp; · &nbsp; <a href="https://github.com/nikhilsaireddyi?tab=repositories"><strong>↗ Browse all public repositories</strong></a>
 
 </div>
 
@@ -145,9 +131,9 @@ If you're reviewing my work, these are useful starting points:
 
 <br/>
 
-**Interesting idea, collaboration or opportunity? I'd love to hear about it.**
+<p><strong>Interesting idea, collaboration or opportunity? I'd love to hear about it.</strong></p>
 
-[**Email**](mailto:nikhilsaireddyi@gmail.com) &nbsp; · &nbsp; [**LinkedIn**](https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432) &nbsp; · &nbsp; [**Portfolio**](https://nikhil-portfolio-vibex1.vercel.app) &nbsp; · &nbsp; [**GitHub**](https://github.com/nikhilsaireddyi)
+<a href="mailto:nikhilsaireddyi@gmail.com">Email</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432">LinkedIn</a> &nbsp; · &nbsp; <a href="https://nikhil-portfolio-vibex1.vercel.app">Portfolio</a> &nbsp; · &nbsp; <a href="https://github.com/nikhilsaireddyi">GitHub</a>
 
 <br/>
 
