@@ -1,24 +1,26 @@
-<!-- Original recruiter-first GitHub profile, Midnight × Champagne Gold. -->
+<!-- Recruiter-first GitHub profile: Midnight × Champagne Gold. All details visible; no expandable sections. -->
 <div align="center">
 
-<img src="./assets/profile-hero-v3.svg" width="100%" alt="Nikhil Sai Reddy — frontend developer and AI/ML student, Midnight and Champagne Gold cinematic hero" />
+<img src="./assets/profile-hero-v3.svg" width="100%" alt="Nikhil Sai Reddy — Frontend Developer and AI/ML Student" />
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/currently-building-still.svg" />
-  <img src="./assets/motion-strip.gif" width="100%" alt="Animated gold developer status: interactive experiences, TypeScript, learning AI and ML" />
+  <img src="./assets/motion-strip.gif" width="100%" alt="Animated status: interactive experiences, TypeScript, and learning AI/ML" />
 </picture>
 
 <br/>
 
-<img src="./assets/intro-editorial.svg" width="100%" alt="I turn curiosity into interactive experiences. Frontend engineering, creative code, and AI exploration. CSE AI/ML student in Visakhapatnam." />
+### I turn curiosity into interactive experiences.
+
+**Frontend Development · Creative Engineering · Learning AI/ML**
+
+I'm a **CSE (AI & ML) student in Visakhapatnam** building interactive web experiences and exploring intelligent systems.
 
 <br/>
 
-<a href="https://nikhil-portfolio-vibex1.vercel.app"><img src="./assets/cta-portfolio.svg" width="290" alt="Visit my interactive portfolio" /></a>
-<a href="https://github.com/nikhilsaireddyi?tab=repositories"><img src="./assets/cta-code.svg" width="290" alt="Browse my public GitHub repositories" /></a>
-<a href="mailto:nikhilsaireddyi@gmail.com"><img src="./assets/cta-contact.svg" width="290" alt="Email me" /></a>
-
-<br/>
+<a href="https://nikhil-portfolio-vibex1.vercel.app"><img src="./assets/cta-portfolio.svg" width="280" alt="Open my interactive portfolio" /></a>
+<a href="https://github.com/nikhilsaireddyi?tab=repositories"><img src="./assets/cta-code.svg" width="280" alt="Browse public GitHub repositories" /></a>
+<a href="mailto:nikhilsaireddyi@gmail.com"><img src="./assets/cta-contact.svg" width="280" alt="Send me an email" /></a>
 
 </div>
 
@@ -26,110 +28,95 @@
 
 <a id="selected-work"></a>
 
-## <img src="./assets/chapter-work.svg" alt="01 / Selected Work — real projects and real code" width="100%" />
+## <img src="./assets/chapter-work.svg" width="100%" alt="01 — Selected Work. Real projects and real code." />
+
+Two public projects that show how I approach **engineering, interaction and design**.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/nikhilsaireddyi/ganesh-the-quest"><img src="./assets/project-ganesh.svg" width="100%" alt="Ganesh: The Quest — custom browser festival adventure"/></a>
-<a href="https://github.com/nikhilsaireddyi/ganesh-the-quest"><img src="./assets/project-proof-ganesh.svg" width="100%" alt="Ganesh: The Quest. Browser adventure built with Canvas 2D, JavaScript, procedural Web Audio, scene systems and interactive festival missions. Open source repository." /></a>
+<a href="https://github.com/nikhilsaireddyi/ganesh-the-quest"><img src="./assets/project-ganesh.svg" width="100%" alt="Ganesh: The Quest project illustration"/></a>
+<h3><a href="https://github.com/nikhilsaireddyi/ganesh-the-quest">Ganesh: The Quest ↗</a></h3>
+<p>A story-driven browser adventure for Ganesh Chaturthi, built with a custom Canvas-based game engine.</p>
+<p><strong>Engineering highlights</strong></p>
+<ul>
+<li>Scene management, input handling and camera systems</li>
+<li>Procedural sound built with the Web Audio API</li>
+<li>Interactive missions and festival environments</li>
+</ul>
+<p><code>JavaScript</code> <code>Canvas 2D</code> <code>Web Audio</code> <code>Vite</code></p>
+<p><a href="https://github.com/nikhilsaireddyi/ganesh-the-quest"><strong>Explore the repository →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/nikhilsaireddyi/Nikhil"><img src="./assets/project-portfolio.svg" width="100%" alt="Interactive Portfolio — creative frontend engineering"/></a>
-<a href="https://github.com/nikhilsaireddyi/Nikhil"><img src="./assets/project-proof-portfolio.svg" width="100%" alt="Interactive Portfolio. Next.js, React and TypeScript website with modular architecture and Anime.js motion. Open source repository." /></a>
+<a href="https://github.com/nikhilsaireddyi/Nikhil"><img src="./assets/project-portfolio.svg" width="100%" alt="Interactive Portfolio project illustration"/></a>
+<h3><a href="https://github.com/nikhilsaireddyi/Nikhil">Interactive Portfolio ↗</a></h3>
+<p>An interactive web experience combining frontend architecture with motion and creative UI.</p>
+<p><strong>Engineering highlights</strong></p>
+<ul>
+<li>Component-based application architecture</li>
+<li>Animation and interaction using Anime.js</li>
+<li>Next.js and TypeScript frontend development</li>
+</ul>
+<p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Anime.js</code></p>
+<p><a href="https://github.com/nikhilsaireddyi/Nikhil"><strong>Explore the repository →</strong></a></p>
 </td>
 </tr>
 </table>
 
+**Want to review the implementation?** Here are direct links to code:
+
+- **[Game engine ↗](https://github.com/nikhilsaireddyi/ganesh-the-quest/blob/main/src/core/Engine.js)** — rendering lifecycle, input, scene orchestration and camera
+- **[Procedural audio ↗](https://github.com/nikhilsaireddyi/ganesh-the-quest/blob/main/src/audio/AudioManager.js)** — sound synthesis and Web Audio controls
+- **[Portfolio architecture ↗](https://github.com/nikhilsaireddyi/Nikhil/blob/main/src/app/page.tsx)** — Next.js page composition
+- **[Portfolio animation ↗](https://github.com/nikhilsaireddyi/Nikhil/blob/main/src/components/sections/Hero.tsx)** — hero animation and interactions
+
+---
+
+## <img src="./assets/chapter-about.svg" width="100%" alt="02 — About Me. Curiosity meets craft." />
+
+I'm **Nikhil Sai Reddy**, studying Computer Science with a focus on **Artificial Intelligence and Machine Learning** at NIAT, Visakhapatnam.
+
+I enjoy the intersection of **software engineering and visual storytelling**. I learn by building real projects, exploring different approaches and improving the details. I'm early in my AI/ML journey and prefer showing my work rather than overstating experience.
+
 <div align="center">
-<a href="https://github.com/nikhilsaireddyi/ganesh-the-quest"><img src="https://img.shields.io/badge/GANESH-SOURCE%20CODE-E8BB70?style=for-the-badge&labelColor=0C1220" alt="Ganesh project source code" /></a>
-<a href="https://github.com/nikhilsaireddyi/Nikhil"><img src="https://img.shields.io/badge/PORTFOLIO-SOURCE%20CODE-E8BB70?style=for-the-badge&labelColor=0C1220" alt="Portfolio project source code" /></a>
+
+<img src="./assets/build-method.svg" width="100%" alt="My process: Understand → Build → Refine → Learn" />
+
 </div>
 
-<details>
-<summary>Read project details and verified implementation links</summary>
-
-**Ganesh: The Quest** — A story-driven 2.5D-style Canvas browser adventure with scene management, input and camera systems, procedural sound, and interactive festival missions.
-
-**Interactive Portfolio** — A TypeScript and Next.js experience with component-based architecture, Anime.js motion, and interactive UI.
-
-**Inspect actual source:** [Game Engine](https://github.com/nikhilsaireddyi/ganesh-the-quest/blob/main/src/core/Engine.js) · [Procedural Audio](https://github.com/nikhilsaireddyi/ganesh-the-quest/blob/main/src/audio/AudioManager.js) · [Next.js Page](https://github.com/nikhilsaireddyi/Nikhil/blob/main/src/app/page.tsx) · [Animated Hero](https://github.com/nikhilsaireddyi/Nikhil/blob/main/src/components/sections/Hero.tsx)
-
-</details>
-
 ---
 
-## <img src="./assets/chapter-about.svg" alt="02 / The person behind the pixels — curiosity meets craft" width="100%" />
+## <img src="./assets/chapter-toolkit.svg" width="100%" alt="03 — Engineering Toolkit. Tools, not trophies." />
 
-<img src="./assets/about-editorial.svg" width="100%" alt="Nikhil Sai Reddy studies Computer Science, AI and ML at NIAT Visakhapatnam. Interested in engineering and visual storytelling, learning through real projects." />
-
-<br/>
-
-<img src="./assets/build-method.svg" width="100%" alt="My engineering process: Understand → Build → Refine → Learn" />
-
----
-
-## <img src="./assets/chapter-toolkit.svg" alt="03 / Engineering toolkit — tools, not trophies" width="100%" />
-
-<img src="./assets/toolkit-editorial.svg" width="100%" alt="Web: TypeScript, JavaScript, React, Next.js, HTML, CSS and Tailwind. Creative: Canvas 2D, Anime.js and Web Audio. Workflow: Git, GitHub, Vite and VS Code. Learning: Python and AI/ML." />
-
-<details>
-<summary>Explore the technology list as text</summary>
-
-| Area | Technologies |
+| Focus | Technologies |
 |:--|:--|
-| Web engineering | TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind CSS |
-| Creative experiences | Canvas 2D, Anime.js, Web Audio API |
-| Workflow | Git, GitHub, Vite, VS Code |
-| Learning | Python, AI/ML foundations, intelligent interfaces |
+| **Frontend development** | TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind CSS |
+| **Creative engineering** | Canvas 2D, Anime.js, Web Audio API |
+| **Developer workflow** | Git, GitHub, Vite, VS Code |
+| **Learning / exploring** | Python, AI/ML fundamentals, intelligent interfaces |
 
-I'm still learning; listing a technology is not a claim of expert-level proficiency.
-
-</details>
+<sub>These are technologies I've used or am learning; not claims of advanced expertise in every tool.</sub>
 
 ---
 
-## <img src="./assets/chapter-next.svg" alt="04 / What's next — always in progress" width="100%" />
+## <img src="./assets/chapter-next.svg" width="100%" alt="04 — What's Next. Always in progress." />
 
-<img src="./assets/next-editorial.svg" width="100%" alt="Now studying AI/ML fundamentals and TypeScript, while building useful creative web experiences. Long term: connect intelligent systems with exceptional user experiences." />
+**Currently exploring:** AI/ML fundamentals, polished TypeScript experiences, and how animation can make useful interfaces more intuitive.
 
-<details>
-<summary>Optional GitHub activity</summary>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nikhilsaireddyi&show_icons=true&hide_border=true&bg_color=0C1220&title_color=E8BB70&icon_color=CDA875&text_color=F8E8CF" alt="GitHub activity statistics (external service)" />
-
-</div>
-
-Stats depend on a third-party image service and may sometimes be unavailable.
-
-</details>
+**Long-term goal:** Bring intelligent systems together with exceptional user experiences.
 
 ---
 
 <div align="center">
 
-<img src="./assets/closing-transmission.svg" width="100%" alt="Let's build something that matters" />
+<img src="./assets/closing-transmission.svg" width="100%" alt="Let's build something that matters." />
 
-<img src="./assets/contact-editorial.svg" width="100%" alt="Have an opportunity or a useful project idea? Let's talk." />
+**Have a project idea, collaboration or opportunity? Let's connect.**
 
-<br/>
+<a href="mailto:nikhilsaireddyi@gmail.com"><img src="./assets/cta-contact.svg" width="280" alt="Email me" /></a>
 
-<a href="mailto:nikhilsaireddyi@gmail.com"><img src="./assets/cta-contact.svg" width="290" alt="Contact by email" /></a>
-<a href="https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-E8BB70?style=for-the-badge&labelColor=0C1220&logo=linkedin&logoColor=F8E8CF" alt="Connect on LinkedIn" /></a>
+[**LinkedIn**](https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432) · [**Portfolio**](https://nikhil-portfolio-vibex1.vercel.app) · [**GitHub**](https://github.com/nikhilsaireddyi)
 
-<br/>
+<sub>Built with curiosity · Nikhil Sai Reddy</sub>
 
 </div>
-
-<details>
-<summary>About me and this profile — readable text version</summary>
-
-I'm **Nikhil Sai Reddy**, studying Computer Science with a focus on AI and Machine Learning at NIAT in Visakhapatnam, India. I enjoy engineering and visual storytelling, and I'm still early in my AI/ML journey.
-
-I work with TypeScript, JavaScript, React, Next.js, Canvas 2D and animation tools, and I learn by turning ideas into useful projects. My approach is **understand, build, refine, learn**.
-
-[Portfolio](https://nikhil-portfolio-vibex1.vercel.app) · [GitHub](https://github.com/nikhilsaireddyi) · [LinkedIn](https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432) · [Email](mailto:nikhilsaireddyi@gmail.com)
-
-</details>
