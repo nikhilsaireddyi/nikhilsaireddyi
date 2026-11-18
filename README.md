@@ -4,9 +4,12 @@
 
 <img src="https://raw.githubusercontent.com/nikhilsaireddyi/nikhilsaireddyi/main/assets/role-ticker.svg?v=a0f41565861ef29acc30e2b3eb782a9aacf1cde1" width="100%" alt="Developer · AI/ML Builder · Product Builder · Software Explorer · Creative Technologist" />
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=E04444&center=true&vCenter=true&width=900&lines=DEVELOPER;AI%2FML+BUILDER;PRODUCT+BUILDER;SOFTWARE+ENGINEER+IN+PROGRESS;BUILD.+LEARN.+EVOLVE." alt="Animated role titles" />
+
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432">LinkedIn</a>
+<a href="https://github.com/nikhilsaireddyi">GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432">LinkedIn</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://nikhil-portfolio-mai54drkv-vibex1.vercel.app">Portfolio</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
