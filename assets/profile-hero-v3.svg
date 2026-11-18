@@ -1,61 +1,61 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-label="Nikhil Sai Reddy — Frontend developer and AI/ML student. Building interactive experiences.">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090D10"/><stop offset=".6" stop-color="#111919"/><stop offset="1" stop-color="#07130F"/></linearGradient>
-  <linearGradient id="stroke" x1="0" y1="0" x2="1"><stop stop-color="#CCFE65"/><stop offset="1" stop-color="#5DD8C0"/></linearGradient>
-  <radialGradient id="light"><stop stop-color="#C8FF66" stop-opacity=".12"/><stop offset="1" stop-color="#C8FF66" stop-opacity="0"/></radialGradient>
-  <pattern id="dots" width="23" height="23" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#B1DABE" opacity=".11"/></pattern>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090E1A"/><stop offset=".6" stop-color="#121A2B"/><stop offset="1" stop-color="#171827"/></linearGradient>
+  <linearGradient id="stroke" x1="0" y1="0" x2="1"><stop stop-color="#E8BB70"/><stop offset="1" stop-color="#B99665"/></linearGradient>
+  <radialGradient id="light"><stop stop-color="#E8BB70" stop-opacity=".12"/><stop offset="1" stop-color="#E8BB70" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="23" height="23" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#B5ADAE" opacity=".11"/></pattern>
   <clipPath id="cl"><rect width="1200" height="480" rx="22"/></clipPath>
 </defs>
 <g clip-path="url(#cl)">
   <rect width="1200" height="480" fill="url(#bg)"/>
   <rect width="1200" height="480" fill="url(#dots)"/>
   <circle cx="1060" cy="190" r="300" fill="url(#light)"/>
-  <path d="M42 72H1158M42 412H1158" fill="none" stroke="#799586" stroke-opacity=".3"/>
-  <path d="M804 106V384" stroke="#799586" stroke-opacity=".27"/>
+  <path d="M42 72H1158M42 412H1158" fill="none" stroke="#A18B78" stroke-opacity=".3"/>
+  <path d="M804 106V384" stroke="#A18B78" stroke-opacity=".27"/>
   <g font-family="monospace">
-    <rect x="42" y="29" width="10" height="10" fill="#C9FE6A"/>
-    <text x="66" y="39" fill="#D4E2D6" font-size="14" letter-spacing="2">NIKHIL.SAI.REDDY</text>
-    <text x="1126" y="39" fill="#C9FE6A" font-size="13" text-anchor="end">PORTFOLIO / 2026</text>
-    <text x="47" y="115" fill="#C9FE6A" font-size="16" letter-spacing="4">HELLO, I'M</text>
+    <rect x="42" y="29" width="10" height="10" fill="#E8BB70"/>
+    <text x="66" y="39" fill="#F0E3D3" font-size="14" letter-spacing="2">NIKHIL.SAI.REDDY</text>
+    <text x="1126" y="39" fill="#E8BB70" font-size="13" text-anchor="end">PORTFOLIO / 2026</text>
+    <text x="47" y="115" fill="#E8BB70" font-size="16" letter-spacing="4">HELLO, I'M</text>
   </g>
   <g font-family="Arial,Helvetica,sans-serif" font-weight="900" letter-spacing="-5">
-    <text x="41" y="225" font-size="122" fill="#F3F6ED">NIKHIL</text>
-    <text x="41" y="337" font-size="117" fill="#C9FE6A">SAI REDDY<tspan fill="#F3F6ED">.</tspan></text>
+    <text x="41" y="225" font-size="122" fill="#F8E8CF">NIKHIL</text>
+    <text x="41" y="337" font-size="117" fill="#E8BB70">SAI REDDY<tspan fill="#F8E8CF">.</tspan></text>
   </g>
   <g font-family="monospace">
-    <rect x="45" y="354" width="333" height="32" rx="4" fill="#D0FE6B"/>
-    <text x="61" y="375" fill="#08110E" font-size="14" font-weight="bold" letter-spacing="1">FRONTEND DEVELOPER</text>
-    <text x="400" y="375" fill="#DBE6DC" font-size="14" letter-spacing="1">+ AI/ML STUDENT</text>
-    <text x="45" y="447" fill="#8DAB9B" font-size="13" letter-spacing="2">VISAKHAPATNAM, INDIA</text>
-    <text x="1160" y="447" fill="#8DAB9B" text-anchor="end" font-size="13" letter-spacing="2">SCROLL TO SEE THE WORK ↓</text>
+    <rect x="45" y="354" width="333" height="32" rx="4" fill="#E8BB70"/>
+    <text x="61" y="375" fill="#0E1320" font-size="14" font-weight="bold" letter-spacing="1">FRONTEND DEVELOPER</text>
+    <text x="400" y="375" fill="#E8D8C8" font-size="14" letter-spacing="1">+ AI/ML STUDENT</text>
+    <text x="45" y="447" fill="#A89D96" font-size="13" letter-spacing="2">VISAKHAPATNAM, INDIA</text>
+    <text x="1160" y="447" fill="#A89D96" text-anchor="end" font-size="13" letter-spacing="2">SCROLL TO SEE THE WORK ↓</text>
   </g>
   <!-- A low-intensity scan and progress accents; the content remains readable if animation is disabled. -->
-  <rect x="-260" y="403" width="260" height="2" rx="1" fill="#C9FE6A" opacity=".72">
+  <rect x="-260" y="403" width="260" height="2" rx="1" fill="#E8BB70" opacity=".72">
     <animate attributeName="x" values="-260;1210" dur="13s" repeatCount="indefinite"/>
   </rect>
   <g opacity=".76">
-    <circle cx="1141" cy="35" r="4" fill="#C9FE6A">
+    <circle cx="1141" cy="35" r="4" fill="#E8BB70">
       <animate attributeName="opacity" values="1;.25;1" dur="3.6s" repeatCount="indefinite"/>
     </circle>
   </g>
   <g transform="translate(822 96)">
-    <rect width="323" height="288" rx="14" fill="#0D1614" stroke="#63826F" stroke-opacity=".6"/>
-    <path d="M0 48H323" stroke="#63826F" stroke-opacity=".4"/>
-    <circle cx="23" cy="24" r="5" fill="#C9FE6A"/><circle cx="42" cy="24" r="5" fill="#5DD8C0"/><circle cx="61" cy="24" r="5" fill="#3F6356"/>
-    <text x="298" y="29" text-anchor="end" font-family="monospace" font-size="12" fill="#B6CBBF">EXPERIMENT_01</text>
+    <rect width="323" height="288" rx="14" fill="#111A2D" stroke="#8B725C" stroke-opacity=".6"/>
+    <path d="M0 48H323" stroke="#8B725C" stroke-opacity=".4"/>
+    <circle cx="23" cy="24" r="5" fill="#E8BB70"/><circle cx="42" cy="24" r="5" fill="#B99665"/><circle cx="61" cy="24" r="5" fill="#665447"/>
+    <text x="298" y="29" text-anchor="end" font-family="monospace" font-size="12" fill="#D1C0AA">EXPERIMENT_01</text>
     <g transform="translate(36 65)" stroke-linecap="round">
-      <g fill="none" stroke="#B7EAB0" stroke-opacity=".22"><path d="M33 55L116 22 203 58 157 147 54 162 33 55 203 58M116 22L157 147M54 162L116 22M54 162L203 58M33 55L157 147"/></g>
+      <g fill="none" stroke="#D9B78A" stroke-opacity=".22"><path d="M33 55L116 22 203 58 157 147 54 162 33 55 203 58M116 22L157 147M54 162L116 22M54 162L203 58M33 55L157 147"/></g>
       <g fill="none" stroke="url(#stroke)" stroke-width="2.5"><path d="M33 55L116 22 203 58"/><path d="M54 162L157 147 203 58"/></g>
-      <g fill="#C9FE6A"><circle cx="33" cy="55" r="7"/><circle cx="116" cy="22" r="7"/><circle cx="203" cy="58" r="7"/></g>
-      <g fill="#5DD8C0"><circle cx="54" cy="162" r="7"/><circle cx="157" cy="147" r="7"/></g>
+      <g fill="#E8BB70"><circle cx="33" cy="55" r="7"/><circle cx="116" cy="22" r="7"/><circle cx="203" cy="58" r="7"/></g>
+      <g fill="#B99665"><circle cx="54" cy="162" r="7"/><circle cx="157" cy="147" r="7"/></g>
       <!-- A spark travels between nodes to signal experimentation, not fake live metrics. -->
-      <circle r="4.5" fill="#F3FFE0">
+      <circle r="4.5" fill="#FFF2DE">
         <animateMotion path="M33,55 L116,22 L203,58 L157,147 L54,162 L33,55" dur="9s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values=".1;1;.1" dur="9s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="116" cy="22" r="15" fill="none" stroke="#C9FE6A" stroke-opacity=".25" stroke-width="2"><animate attributeName="r" values="12;24;12" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0;.7" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="116" cy="22" r="15" fill="none" stroke="#E8BB70" stroke-opacity=".25" stroke-width="2"><animate attributeName="r" values="12;24;12" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0;.7" dur="3s" repeatCount="indefinite"/></circle>
     </g>
-    <text x="21" y="267" font-family="monospace" font-size="13" fill="#C9FE6A">DESIGN × ENGINEERING × CURIOSITY</text>
+    <text x="21" y="267" font-family="monospace" font-size="13" fill="#E8BB70">DESIGN × ENGINEERING × CURIOSITY</text>
   </g>
 </g>
 <style>@media(prefers-reduced-motion:reduce){animate{display:none}}</style>
