@@ -29,6 +29,15 @@
     <text x="45" y="447" fill="#8DAB9B" font-size="13" letter-spacing="2">VISAKHAPATNAM, INDIA</text>
     <text x="1160" y="447" fill="#8DAB9B" text-anchor="end" font-size="13" letter-spacing="2">SCROLL TO SEE THE WORK ↓</text>
   </g>
+  <!-- A low-intensity scan and progress accents; the content remains readable if animation is disabled. -->
+  <rect x="-260" y="403" width="260" height="2" rx="1" fill="#C9FE6A" opacity=".72">
+    <animate attributeName="x" values="-260;1210" dur="13s" repeatCount="indefinite"/>
+  </rect>
+  <g opacity=".76">
+    <circle cx="1141" cy="35" r="4" fill="#C9FE6A">
+      <animate attributeName="opacity" values="1;.25;1" dur="3.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
   <g transform="translate(822 96)">
     <rect width="323" height="288" rx="14" fill="#0D1614" stroke="#63826F" stroke-opacity=".6"/>
     <path d="M0 48H323" stroke="#63826F" stroke-opacity=".4"/>
@@ -39,6 +48,11 @@
       <g fill="none" stroke="url(#stroke)" stroke-width="2.5"><path d="M33 55L116 22 203 58"/><path d="M54 162L157 147 203 58"/></g>
       <g fill="#C9FE6A"><circle cx="33" cy="55" r="7"/><circle cx="116" cy="22" r="7"/><circle cx="203" cy="58" r="7"/></g>
       <g fill="#5DD8C0"><circle cx="54" cy="162" r="7"/><circle cx="157" cy="147" r="7"/></g>
+      <!-- A spark travels between nodes to signal experimentation, not fake live metrics. -->
+      <circle r="4.5" fill="#F3FFE0">
+        <animateMotion path="M33,55 L116,22 L203,58 L157,147 L54,162 L33,55" dur="9s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".1;1;.1" dur="9s" repeatCount="indefinite"/>
+      </circle>
       <circle cx="116" cy="22" r="15" fill="none" stroke="#C9FE6A" stroke-opacity=".25" stroke-width="2"><animate attributeName="r" values="12;24;12" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0;.7" dur="3s" repeatCount="indefinite"/></circle>
     </g>
     <text x="21" y="267" font-family="monospace" font-size="13" fill="#C9FE6A">DESIGN × ENGINEERING × CURIOSITY</text>
