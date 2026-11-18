@@ -1,28 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Nikhil Sai Reddy — Neural Systems. An original futuristic AI engineering introduction.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-label="Nikhil Sai Reddy — Frontend developer and AI/ML student. Building interactive experiences.">
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070910"/><stop offset=".56" stop-color="#0c1220"/><stop offset="1" stop-color="#17102b"/></linearGradient>
-<linearGradient id="neon" x1="0" x2="1"><stop stop-color="#70faff"/><stop offset=".58" stop-color="#a78bfa"/><stop offset="1" stop-color="#b5fc6c"/></linearGradient>
-<radialGradient id="aura"><stop stop-color="#23dcec" stop-opacity=".27"/><stop offset="1" stop-color="#23dcec" stop-opacity="0"/></radialGradient>
-<pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#66d9e8" stroke-opacity=".08"/></pattern>
-<filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-<clipPath id="clip"><rect x="0" y="0" width="1200" height="400" rx="18"/></clipPath></defs>
-<g clip-path="url(#clip)"><rect width="1200" height="400" fill="url(#bg)"/><rect width="1200" height="400" fill="url(#grid)"/>
-<circle cx="965" cy="198" r="215" fill="url(#aura)"/>
-<g fill="none" stroke="#6cecf8" stroke-width="1"><circle cx="956" cy="202" r="128" opacity=".5"/><circle cx="956" cy="202" r="92" opacity=".38"/><circle cx="956" cy="202" r="53" opacity=".5"/><path d="M956 55v293M808 202h296" stroke-opacity=".23"/>
-<g style="transform-origin:956px 202px;animation:orbit 20s linear infinite"><ellipse cx="956" cy="202" rx="164" ry="69" transform="rotate(-30 956 202)" stroke="#a78bfa" stroke-opacity=".78" stroke-width="2"/><circle cx="1098" cy="120" r="5" fill="#bbf7d0" stroke="none"/></g>
-<g style="transform-origin:956px 202px;animation:orbitReverse 25s linear infinite"><ellipse cx="956" cy="202" rx="145" ry="83" transform="rotate(37 956 202)" stroke="#50e8fa" stroke-opacity=".4"/></g></g>
-<g stroke="#5eead4" stroke-width="2" fill="none" opacity=".7"><path d="M28 70V28h85M1087 28h85v42M28 331v41h85M1087 372h85v-41"/></g>
-<path d="M35 93h510" stroke="#50e8fa" stroke-opacity=".18"/>
-<text x="56" y="65" fill="#89f6f7" font-family="monospace" font-size="16" letter-spacing="3">NIKHIL / PERSONAL TERMINAL</text>
-<text x="56" y="151" fill="#f4f6ff" font-family="sans-serif" font-weight="800" font-size="76" letter-spacing="-2">NIKHIL SAI</text>
-<text x="56" y="231" fill="url(#neon)" font-family="sans-serif" font-weight="900" font-size="83" letter-spacing="-3">REDDY<tspan fill="#b5fc6c">_</tspan></text>
-<text x="60" y="277" fill="#e3e8f4" font-family="monospace" font-size="18" letter-spacing="2">AI / ML  ·  FRONTEND  ·  CREATIVE CODE</text>
-<path d="M58 303h488" stroke="url(#neon)" stroke-width="2"/>
-<text x="59" y="343" fill="#a9b8d4" font-family="monospace" font-size="15" letter-spacing="2">BUILD WHAT DOESN'T EXIST YET.</text>
-<rect x="846" y="172" width="220" height="60" rx="10" fill="#0a1220" stroke="#48ddeb" stroke-opacity=".7"/>
-<text x="865" y="198" fill="#75f5ec" font-family="monospace" font-size="14">SYSTEM.STATUS</text><text x="865" y="217" fill="#b5fc6c" font-family="monospace" font-weight="bold" font-size="13">● EXPLORING / BUILDING</text>
-<g style="animation:pulse 2.6s ease-in-out infinite"><circle cx="1134" cy="345" r="5" fill="#b5fc6c" filter="url(#glow)"/></g>
-<g style="animation:scan 9s linear infinite"><rect x="-120" width="120" height="400" fill="#7dd3fc" opacity=".045"/></g>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090D10"/><stop offset=".6" stop-color="#111919"/><stop offset="1" stop-color="#07130F"/></linearGradient>
+  <linearGradient id="stroke" x1="0" y1="0" x2="1"><stop stop-color="#CCFE65"/><stop offset="1" stop-color="#5DD8C0"/></linearGradient>
+  <radialGradient id="light"><stop stop-color="#C8FF66" stop-opacity=".12"/><stop offset="1" stop-color="#C8FF66" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="23" height="23" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#B1DABE" opacity=".11"/></pattern>
+  <clipPath id="cl"><rect width="1200" height="480" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#cl)">
+  <rect width="1200" height="480" fill="url(#bg)"/>
+  <rect width="1200" height="480" fill="url(#dots)"/>
+  <circle cx="1060" cy="190" r="300" fill="url(#light)"/>
+  <path d="M42 72H1158M42 412H1158" fill="none" stroke="#799586" stroke-opacity=".3"/>
+  <path d="M804 106V384" stroke="#799586" stroke-opacity=".27"/>
+  <g font-family="monospace">
+    <rect x="42" y="29" width="10" height="10" fill="#C9FE6A"/>
+    <text x="66" y="39" fill="#D4E2D6" font-size="14" letter-spacing="2">NIKHIL.SAI.REDDY</text>
+    <text x="1126" y="39" fill="#C9FE6A" font-size="13" text-anchor="end">PORTFOLIO / 2026</text>
+    <text x="47" y="115" fill="#C9FE6A" font-size="16" letter-spacing="4">HELLO, I'M</text>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" font-weight="900" letter-spacing="-5">
+    <text x="41" y="225" font-size="122" fill="#F3F6ED">NIKHIL</text>
+    <text x="41" y="337" font-size="117" fill="#C9FE6A">SAI REDDY<tspan fill="#F3F6ED">.</tspan></text>
+  </g>
+  <g font-family="monospace">
+    <rect x="45" y="354" width="333" height="32" rx="4" fill="#D0FE6B"/>
+    <text x="61" y="375" fill="#08110E" font-size="14" font-weight="bold" letter-spacing="1">FRONTEND DEVELOPER</text>
+    <text x="400" y="375" fill="#DBE6DC" font-size="14" letter-spacing="1">+ AI/ML STUDENT</text>
+    <text x="45" y="447" fill="#8DAB9B" font-size="13" letter-spacing="2">VISAKHAPATNAM, INDIA</text>
+    <text x="1160" y="447" fill="#8DAB9B" text-anchor="end" font-size="13" letter-spacing="2">SCROLL TO SEE THE WORK ↓</text>
+  </g>
+  <g transform="translate(822 96)">
+    <rect width="323" height="288" rx="14" fill="#0D1614" stroke="#63826F" stroke-opacity=".6"/>
+    <path d="M0 48H323" stroke="#63826F" stroke-opacity=".4"/>
+    <circle cx="23" cy="24" r="5" fill="#C9FE6A"/><circle cx="42" cy="24" r="5" fill="#5DD8C0"/><circle cx="61" cy="24" r="5" fill="#3F6356"/>
+    <text x="298" y="29" text-anchor="end" font-family="monospace" font-size="12" fill="#B6CBBF">EXPERIMENT_01</text>
+    <g transform="translate(36 65)" stroke-linecap="round">
+      <g fill="none" stroke="#B7EAB0" stroke-opacity=".22"><path d="M33 55L116 22 203 58 157 147 54 162 33 55 203 58M116 22L157 147M54 162L116 22M54 162L203 58M33 55L157 147"/></g>
+      <g fill="none" stroke="url(#stroke)" stroke-width="2.5"><path d="M33 55L116 22 203 58"/><path d="M54 162L157 147 203 58"/></g>
+      <g fill="#C9FE6A"><circle cx="33" cy="55" r="7"/><circle cx="116" cy="22" r="7"/><circle cx="203" cy="58" r="7"/></g>
+      <g fill="#5DD8C0"><circle cx="54" cy="162" r="7"/><circle cx="157" cy="147" r="7"/></g>
+      <circle cx="116" cy="22" r="15" fill="none" stroke="#C9FE6A" stroke-opacity=".25" stroke-width="2"><animate attributeName="r" values="12;24;12" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0;.7" dur="3s" repeatCount="indefinite"/></circle>
+    </g>
+    <text x="21" y="267" font-family="monospace" font-size="13" fill="#C9FE6A">DESIGN × ENGINEERING × CURIOSITY</text>
+  </g>
 </g>
-<style>@keyframes orbit{to{transform:rotate(360deg)}}@keyframes orbitReverse{to{transform:rotate(-360deg)}}@keyframes pulse{50%{opacity:.3}}@keyframes scan{to{transform:translateX(1440px)}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<style>@media(prefers-reduced-motion:reduce){animate{display:none}}</style>
 </svg>
