@@ -1,28 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="85" viewBox="0 0 1200 85" role="img" aria-label="Building interactive experiences with TypeScript, React and a growing AI/ML toolkit">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0C1220"/><stop offset=".58" stop-color="#1B2134"/><stop offset="1" stop-color="#0C1220"/></linearGradient></defs>
-<rect width="1200" height="85" rx="10" fill="url(#bg)"/>
-<path d="M16 12H1184M16 73H1184" stroke="#6E5B54" stroke-opacity=".55"/>
-<rect x="25" y="25" width="10" height="10" rx="2" fill="#E8BB70">
- <animate attributeName="opacity" values="1;.35;1" dur="2.8s" repeatCount="indefinite"/>
-</rect>
-<text x="52" y="33" font-family="monospace" font-size="15" letter-spacing="1.2" fill="#E8BB70">NOW BUILDING</text>
-<path d="M225 16V68" stroke="#806D5E" stroke-opacity=".65"/>
-<g font-family="monospace" font-size="21" font-weight="bold" fill="#F8E8CF" letter-spacing="1.4">
- <text x="252" y="40" opacity="1">INTERACTIVE WEB EXPERIENCES
-  <animate attributeName="opacity" values="1;1;0;0;0;1" keyTimes="0;.29;.34;.66;.96;1" dur="14s" repeatCount="indefinite"/>
- </text>
- <text x="252" y="40" opacity="0">TYPESCRIPT · REACT · CREATIVE CODE
-  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.29;.34;.63;.68;1" dur="14s" repeatCount="indefinite"/>
- </text>
- <text x="252" y="40" opacity="0">LEARNING AI / ML, ONE BUILD AT A TIME
-  <animate attributeName="opacity" values="0;0;0;0;1;0" keyTimes="0;.31;.59;.68;.73;1" dur="14s" repeatCount="indefinite"/>
- </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-label="Current focus: interactive web experiences, frontend development and learning AI and machine learning">
+<defs><linearGradient id="night" x1="0" x2="1"><stop stop-color="#0C1220"/><stop offset=".54" stop-color="#202238"/><stop offset="1" stop-color="#0C1220"/></linearGradient><linearGradient id="gold" x1="0" x2="1"><stop stop-color="#AA804E"/><stop offset=".48" stop-color="#FFE4BA"/><stop offset="1" stop-color="#C3975A"/></linearGradient></defs>
+<rect width="1200" height="92" rx="11" fill="url(#night)"/>
+<path d="M18 12H1182M18 78H1182" stroke="#AC8C69" stroke-opacity=".27"/>
+<rect x="28" y="24" width="11" height="11" rx="2" fill="#E8BB70"><animate attributeName="opacity" values="1;.25;1" dur="3s" repeatCount="indefinite"/></rect>
+<text x="55" y="35" font-family="monospace" font-size="16" font-weight="700" letter-spacing="1.5" fill="#E8BB70">CURRENT FOCUS</text>
+<path d="M248 16V72" stroke="#A2886D" stroke-opacity=".52"/>
+<g font-family="monospace" font-size="22" letter-spacing="1.1" font-weight="700" fill="#F8E8CF">
+ <text x="274" y="45" opacity="1">BUILDING INTERACTIVE WEB EXPERIENCES<animate attributeName="opacity" values="1;1;0;0;0;1" keyTimes="0;.29;.35;.64;.96;1" dur="15s" repeatCount="indefinite"/></text>
+ <text x="274" y="45" opacity="0">NEXT.JS  /  TYPESCRIPT  /  CREATIVE CODE<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.28;.34;.62;.68;1" dur="15s" repeatCount="indefinite"/></text>
+ <text x="274" y="45" opacity="0">EXPLORING AI &amp; MACHINE LEARNING<animate attributeName="opacity" values="0;0;0;0;1;0" keyTimes="0;.3;.61;.67;.93;1" dur="15s" repeatCount="indefinite"/></text>
 </g>
-<rect x="1132" y="25" width="12" height="19" fill="#E8BB70">
-<animate attributeName="opacity" values="1;1;0;0;1" dur="1.6s" repeatCount="indefinite"/>
-</rect>
-<path d="M26 62H1170" stroke="#38313C" stroke-width="3"/>
-<path d="M26 62H214" stroke="#E8BB70" stroke-width="3" opacity=".8">
-<animate attributeName="d" values="M26 62H214;M26 62H980;M26 62H214" dur="14s" repeatCount="indefinite"/>
-</path>
+<rect x="1106" y="27" width="12" height="24" fill="#E8BB70"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.4s" repeatCount="indefinite"/></rect>
+<path d="M26 65H1175" stroke="#514454" stroke-width="2"/>
+<rect x="26" y="64" width="220" height="3" rx="1.5" fill="url(#gold)"><animate attributeName="width" values="100;1120;100" dur="15s" repeatCount="indefinite"/></rect>
+<style>@media(prefers-reduced-motion:reduce){animate{display:none!important}}</style>
 </svg>
