@@ -1,6 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="155" viewBox="0 0 1200 155" role="img" aria-label="End of transmission — Keep building">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#151028"/></linearGradient><linearGradient id="line"><stop stop-color="#64f4f6"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#b5fc6c"/></linearGradient></defs>
-<rect width="1200" height="155" rx="14" fill="url(#bg)"/><path d="M20 20h1160M20 135h1160" stroke="url(#line)" stroke-width="2" opacity=".7"/>
-<g font-family="monospace" text-anchor="middle"><text x="600" y="54" fill="#9adcf0" font-size="14" letter-spacing="4">END OF TRANSMISSION / NIKHIL SAI REDDY</text><text x="600" y="93" fill="#f4f6ff" font-weight="bold" font-size="27" letter-spacing="5">STAY CURIOUS. SHIP THE FUTURE.</text><text x="600" y="118" fill="#a8b9d4" font-size="13" letter-spacing="2">BUILD  /  LEARN  /  EVOLVE</text></g>
-<circle cx="35" cy="78" r="5" fill="#b5fc6c"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Nikhil Sai Reddy: Build thoughtfully. Stay curious.">
+<defs><linearGradient id="a" x1="0" x2="1"><stop stop-color="#101C18"/><stop offset="1" stop-color="#15251B"/></linearGradient></defs>
+<rect width="1200" height="150" rx="16" fill="url(#a)"/>
+<path d="M25 22H1175M25 128H1175" fill="none" stroke="#A6C9AF" stroke-opacity=".2"/>
+<path d="M25 22H215M985 128H1175" stroke="#C9FE6A" stroke-width="3"/>
+<text x="58" y="67" font-family="monospace" fill="#B8D1BE" font-size="13" letter-spacing="3">NO MORE PLACEHOLDERS. JUST PROGRESS.</text>
+<text x="54" y="107" font-family="Arial,Helvetica,sans-serif" fill="#F2F9ED" font-size="39" font-weight="800">LET'S BUILD SOMETHING THAT MATTERS<tspan fill="#C9FE6A">.</tspan></text>
+<circle cx="1115" cy="76" r="18" fill="#C9FE6A"/><path d="M1105 76h19m-8-8 8 8-8 8" fill="none" stroke="#0B1410" stroke-width="3"/>
 </svg>
