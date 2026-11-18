@@ -32,9 +32,11 @@
 
 ---
 
-## Selected work
+<a id="selected-work"></a>
 
-<sub>REAL REPOSITORIES · REAL CODE · WORK I'M PROUD TO SHOW</sub>
+## <img src="./assets/chapter-work.svg" alt="01 / Selected work — Real projects, real code" width="100%" />
+
+<sub>Two public projects selected for technical depth, originality, and visible implementation.</sub>
 
 <table>
 <tr>
@@ -75,7 +77,7 @@
 
 ---
 
-## The person behind the pixels
+## <img src="./assets/chapter-about.svg" alt="02 / The person behind the pixels — Curiosity meets craft" width="100%" />
 
 I'm **Nikhil Sai Reddy**, studying Computer Science with a focus on Artificial Intelligence and Machine Learning at NIAT, Visakhapatnam.
 
@@ -83,11 +85,15 @@ I enjoy the intersection of **engineering and visual storytelling**. A good prod
 
 My approach is simple:
 
-**Understand the problem → Build the smallest useful version → Improve the details → Keep learning.**
+<div align="center">
+
+<img src="./assets/build-method.svg" alt="My process: understand, build, refine, learn" width="100%" />
+
+</div>
 
 ---
 
-## My engineering toolkit
+## <img src="./assets/chapter-toolkit.svg" alt="03 / Engineering toolkit — Tools, not trophies" width="100%" />
 
 | What I'm using | Technologies |
 |:--|:--|
@@ -109,7 +115,7 @@ If you're reviewing my work, these are useful starting points:
 
 ---
 
-## What I'm focusing on next
+## <img src="./assets/chapter-next.svg" alt="04 / What's next — Always in progress" width="100%" />
 
 **Right now:** strengthening AI/ML foundations, sharpening TypeScript skills and building interfaces that are both useful and distinctive.
 
