@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="center"><span style="color:#B08D57">01</span> &nbsp; ABOUT ME</h2>
+<h2 align="center">01 &nbsp; / &nbsp; ABOUT</h2>
 
 ### Hello, I'm Nikhil Sai Reddy.
 
@@ -26,7 +26,7 @@ I enjoy turning ideas into useful digital experiences and exploring the intersec
 <tr>
 <td width="50%" valign="top">
 
-**<span style="color:#B08D57">EDUCATION</span>**
+**EDUCATION**
 
 🎓 CSE — Artificial Intelligence & Machine Learning
 
@@ -35,7 +35,7 @@ I enjoy turning ideas into useful digital experiences and exploring the intersec
 </td>
 <td width="50%" valign="top">
 
-**<span style="color:#6F8FA8">AREAS OF INTEREST</span>**
+**AREAS OF INTEREST**
 
 AI, ML, LLMs and intelligent applications
 
@@ -47,7 +47,7 @@ Web development, product building and hackathons
 
 ---
 
-<h2 align="center"><span style="color:#6F8FA8">02</span> &nbsp; TECHNOLOGY</h2>
+<h2 align="center">02 &nbsp; / &nbsp; TECHNOLOGY</h2>
 
 <div align="center">
 
@@ -64,26 +64,27 @@ Web development, product building and hackathons
 
 ---
 
-<h2 align="center"><span style="color:#9B7770">03</span> &nbsp; SELECTED PROJECTS</h2>
+<h2 align="center">03 &nbsp; / &nbsp; SELECTED WORK</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🌡️ <a href="https://github.com/nikhilsaireddyi/HeatSheild-AI-">HeatShield AI</a></h3>
+<h3><a href="https://github.com/nikhilsaireddyi/HeatSheild-AI-">HeatShield AI</a></h3>
 
-<img src="https://img.shields.io/badge/AI-34495E?style=flat-square" />
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-34495E?style=flat-square" />
 <img src="https://img.shields.io/badge/WORKER%20SAFETY-426579?style=flat-square" />
+<img src="https://img.shields.io/badge/NEXT.JS-252525?style=flat-square&logo=next.js&logoColor=white" />
 
 An AI-assisted project exploring heat-risk awareness and practical worker-safety insights.
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🎮 <a href="https://github.com/nikhilsaireddyi/ganesh-the-quest">GANESH: THE QUEST</a></h3>
+<h3><a href="https://github.com/nikhilsaireddyi/ganesh-the-quest">GANESH: THE QUEST</a></h3>
 
-<img src="https://img.shields.io/badge/3D%20GAME-77705B?style=flat-square" />
-<img src="https://img.shields.io/badge/INTERACTIVE-536B5C?style=flat-square" />
+<img src="https://img.shields.io/badge/GAME%20DEVELOPMENT-77705B?style=flat-square" />
+<img src="https://img.shields.io/badge/3D%20EXPERIENCE-536B5C?style=flat-square" />
 
 A festival-inspired 3D adventure game project built around an interactive experience.
 
@@ -99,7 +100,7 @@ A festival-inspired 3D adventure game project built around an interactive experi
 
 ---
 
-<h2 align="center"><span style="color:#536B5C">04</span> &nbsp; CURRENT FOCUS</h2>
+<h2 align="center">04 &nbsp; / &nbsp; CURRENT FOCUS</h2>
 
 <div align="center">
 
@@ -111,7 +112,7 @@ A festival-inspired 3D adventure game project built around an interactive experi
 
 ---
 
-<h2 align="center"><span style="color:#B08D57">05</span> &nbsp; CONTACT</h2>
+<h2 align="center">05 &nbsp; / &nbsp; LET'S CONNECT</h2>
 
 <div align="center">
 
