@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="85" viewBox="0 0 1200 85" role="img" aria-label="Building interactive experiences with TypeScript, React and a growing AI/ML toolkit">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#09120F"/><stop offset=".58" stop-color="#14201A"/><stop offset="1" stop-color="#09120F"/></linearGradient></defs>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0C1220"/><stop offset=".58" stop-color="#1B2134"/><stop offset="1" stop-color="#0C1220"/></linearGradient></defs>
 <rect width="1200" height="85" rx="10" fill="url(#bg)"/>
-<path d="M16 12H1184M16 73H1184" stroke="#385448" stroke-opacity=".55"/>
-<rect x="25" y="25" width="10" height="10" rx="2" fill="#C9FE6A">
+<path d="M16 12H1184M16 73H1184" stroke="#6E5B54" stroke-opacity=".55"/>
+<rect x="25" y="25" width="10" height="10" rx="2" fill="#E8BB70">
  <animate attributeName="opacity" values="1;.35;1" dur="2.8s" repeatCount="indefinite"/>
 </rect>
-<text x="52" y="33" font-family="monospace" font-size="15" letter-spacing="1.2" fill="#C9FE6A">NOW BUILDING</text>
-<path d="M225 16V68" stroke="#526B56" stroke-opacity=".65"/>
-<g font-family="monospace" font-size="21" font-weight="bold" fill="#F3F7EC" letter-spacing="1.4">
+<text x="52" y="33" font-family="monospace" font-size="15" letter-spacing="1.2" fill="#E8BB70">NOW BUILDING</text>
+<path d="M225 16V68" stroke="#806D5E" stroke-opacity=".65"/>
+<g font-family="monospace" font-size="21" font-weight="bold" fill="#F8E8CF" letter-spacing="1.4">
  <text x="252" y="40" opacity="1">INTERACTIVE WEB EXPERIENCES
   <animate attributeName="opacity" values="1;1;0;0;0;1" keyTimes="0;.29;.34;.66;.96;1" dur="14s" repeatCount="indefinite"/>
  </text>
@@ -18,11 +18,11 @@
   <animate attributeName="opacity" values="0;0;0;0;1;0" keyTimes="0;.31;.59;.68;.73;1" dur="14s" repeatCount="indefinite"/>
  </text>
 </g>
-<rect x="1132" y="25" width="12" height="19" fill="#C9FE6A">
+<rect x="1132" y="25" width="12" height="19" fill="#E8BB70">
 <animate attributeName="opacity" values="1;1;0;0;1" dur="1.6s" repeatCount="indefinite"/>
 </rect>
-<path d="M26 62H1170" stroke="#253A31" stroke-width="3"/>
-<path d="M26 62H214" stroke="#C9FE6A" stroke-width="3" opacity=".8">
+<path d="M26 62H1170" stroke="#38313C" stroke-width="3"/>
+<path d="M26 62H214" stroke="#E8BB70" stroke-width="3" opacity=".8">
 <animate attributeName="d" values="M26 62H214;M26 62H980;M26 62H214" dur="14s" repeatCount="indefinite"/>
 </path>
 </svg>
