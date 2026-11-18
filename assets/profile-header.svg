@@ -9,8 +9,8 @@
 <path d="M80 78H1120" stroke="url(#line)"/>
 <path d="M80 282H1120" stroke="url(#line)"/>
 <text x="82" y="125" fill="#A7ADB2" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="4">COMPUTER SCIENCE  /  ARTIFICIAL INTELLIGENCE</text>
-<text x="76" y="198" fill="#F5F5F2" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="600" letter-spacing="-2">Nikhil Sai Reddy</text>
-<text x="82" y="239" fill="#B7BDC1" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing=".2">Developer · AI &amp; ML Student · Builder</text>
+<text x="76" y="198" fill="#F5F5F2" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="600" letter-spacing="-2">Nikhil Sai Reddy</text>
+<text x="82" y="239" fill="#B7BDC1" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing=".2">Developer · AI &amp; ML Student · Builder</text>
 <text x="82" y="322" fill="#8D959B" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">NIAT  ·  VISAKHAPATNAM, INDIA</text>
 <circle cx="1068" cy="180" r="76" stroke="#DDE1E3" stroke-opacity=".10"/>
 <circle cx="1068" cy="180" r="57" stroke="#DDE1E3" stroke-opacity=".16"/>
