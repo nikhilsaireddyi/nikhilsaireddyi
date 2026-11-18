@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="230" viewBox="0 0 600 230" role="img" aria-label="INTERACTIVE PORTFOLIO project card"><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1120"/><stop offset="1" stop-color="#17122b"/></linearGradient><pattern id="g" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#b9dcec" stroke-opacity=".08"/></pattern></defs><rect width="600" height="230" rx="16" fill="url(#bg)"/><rect width="600" height="230" fill="url(#g)"/><path d="M25 25h105M25 25v38M575 25h-85M575 25v38" stroke="#71ecf5" stroke-width="2" fill="none"/><text x="37" y="55" font-family="monospace" font-size="14" fill="#71ecf5" letter-spacing="2">PROJECT // 002</text><text x="37" y="109" font-family="sans-serif" font-size="32" font-weight="800" fill="#f4f6ff">INTERACTIVE PORTFOLIO</text><text x="39" y="148" font-family="monospace" font-size="16" fill="#b8c7e2">A DIGITAL SPACE BUILT TO EXPLORE</text><path d="M38 173h520" stroke="#71ecf5" stroke-opacity=".5"/><text x="39" y="199" font-family="monospace" font-size="13" fill="#9ab2d0">TYPESCRIPT  /  FRONTEND  /  EXPERIENCE</text><path d="M510 61l15-15 15 15-15 15z" stroke="#71ecf5" fill="none" stroke-width="2"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="350" viewBox="0 0 640 350" role="img" aria-label="Interactive Portfolio built with Next.js, TypeScript and Anime.js.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07161A"/><stop offset=".65" stop-color="#112D2A"/><stop offset="1" stop-color="#0A1714"/></linearGradient><linearGradient id="line" x1="0" x2="1"><stop stop-color="#BFFE6D"/><stop offset="1" stop-color="#5FE5C2"/></linearGradient><pattern id="p" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#ADDBB7" stroke-opacity=".09"/></pattern></defs>
+<rect width="640" height="350" rx="17" fill="url(#bg)"/><rect width="640" height="350" rx="17" fill="url(#p)"/>
+<g transform="translate(291 54)">
+ <rect x="0" y="0" width="317" height="221" rx="12" fill="#0C1517" stroke="#A8F7CC" stroke-opacity=".65" stroke-width="2"/>
+ <path d="M0 34H317" stroke="#507C72"/><circle cx="18" cy="17" r="4" fill="#BFFE6D"/><circle cx="34" cy="17" r="4" fill="#5FE5C2"/><circle cx="50" cy="17" r="4" fill="#4E6C65"/>
+ <text x="282" y="22" font-family="monospace" fill="#C4E7D8" font-size="11" text-anchor="end">NEURAL / UI</text>
+ <g fill="none" stroke="url(#line)" stroke-width="2"><path d="M30 154L94 105 155 146 219 76 281 113"/><path d="M30 96L94 105 155 70 219 76 281 113" opacity=".42"/></g>
+ <g fill="#BFFE6D"><circle cx="94" cy="105" r="7"/><circle cx="219" cy="76" r="7"/></g><g fill="#5FE5C2"><circle cx="30" cy="154" r="6"/><circle cx="155" cy="146" r="6"/><circle cx="281" cy="113" r="6"/></g>
+ <rect x="30" y="177" width="98" height="8" rx="4" fill="#6DD6B9" opacity=".4"/><rect x="30" y="193" width="165" height="8" rx="4" fill="#6DD6B9" opacity=".2"/>
+</g>
+<rect x="22" y="20" width="174" height="30" rx="5" fill="#C9FF6E"/><text x="35" y="41" font-family="monospace" font-size="14" font-weight="bold" fill="#0A1714">PROJECT 02 / WEB</text>
+<text x="22" y="99" fill="#F3FAF4" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="900">DIGITAL</text>
+<text x="22" y="137" fill="#C9FF6E" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="900">PLAYGROUND</text>
+<text x="23" y="174" fill="#C9E2DA" font-family="monospace" font-size="14">INTERACTIVE BY DESIGN</text>
+<rect x="22" y="301" width="596" height="32" rx="6" fill="#081819" fill-opacity=".95"/>
+<text x="36" y="322" fill="#C9FF6E" font-family="monospace" font-size="13">NEXT.JS  /  TYPESCRIPT  /  ANIME.JS</text>
+</svg>
