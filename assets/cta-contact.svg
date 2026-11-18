@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="346" height="83" viewBox="0 0 346 83" role="img" aria-label="GET IN TOUCH: CONTACT / EMAIL">
+<defs>
+<linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1020"/><stop offset=".58" stop-color="#1B2134"/><stop offset="1" stop-color="#111526"/></linearGradient>
+<linearGradient id="champagne" x1="0" y1="0" x2="1"><stop stop-color="#B58B56"/><stop offset=".47" stop-color="#F7DDB4"/><stop offset=".7" stop-color="#E8BB70"/><stop offset="1" stop-color="#C29A69"/></linearGradient>
+<pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#AE9676" opacity=".13"/></pattern>
+</defs>
+<rect width="346" height="83" rx="15" fill="url(#night)"/>
+<rect width="346" height="83" rx="15" fill="url(#dots)"/>
+<rect x="1.5" y="1.5" width="343" height="80" rx="13" stroke="#977956" stroke-opacity=".56" fill="none" stroke-width="1.5"/>
+<path d="M28 25H145M194 58H318" fill="none" stroke="#E8BB70" stroke-width="2.3" stroke-linecap="round"/>
+
+<rect x="16" y="16" width="314" height="51" rx="7" fill="#332B33" stroke="#BA9563" stroke-opacity=".55"/>
+<text x="28" y="47" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#E8BB70" font-weight="800" letter-spacing="0.4">GET IN TOUCH</text>
+<text x="29" y="61" font-family="Arial,Helvetica,sans-serif" font-size="10" fill="#C0A98B" font-weight="500" letter-spacing="0.7">CONTACT / EMAIL</text>
+<path d="M292 38h21m-9-9 9 9-9 9" stroke="#E8BB70" stroke-width="2" fill="none"/>
+
+</svg>
