@@ -1,0 +1,37 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080D18"/>
+      <stop offset="0.55" stop-color="#111D31"/>
+      <stop offset="1" stop-color="#172A40"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="100" y1="60" x2="1050" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#65D5FF"/>
+      <stop offset="1" stop-color="#8B9DFF"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#A8C5E8" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(940 90) rotate(130) scale(340 420)">
+      <stop stop-color="#3E8FC4" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#3E8FC4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#glow)"/>
+  <path d="M820 0L1200 0L1200 360" stroke="#6DD6FF" stroke-opacity=".18" stroke-width="2"/>
+  <circle cx="1015" cy="178" r="112" stroke="url(#accent)" stroke-opacity=".42" stroke-width="1.5"/>
+  <circle cx="1015" cy="178" r="82" stroke="#9DBBFF" stroke-opacity=".25" stroke-dasharray="5 9"/>
+  <circle cx="1015" cy="178" r="10" fill="#75D8FF"/>
+  <path d="M1015 54V88M1015 268V302M891 178H925M1105 178H1139" stroke="#75D8FF" stroke-opacity=".65" stroke-width="2"/>
+  <path d="M890 255L940 205L978 230L1065 135" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="890" cy="255" r="4" fill="#75D8FF"/><circle cx="940" cy="205" r="4" fill="#75D8FF"/><circle cx="978" cy="230" r="4" fill="#75D8FF"/><circle cx="1065" cy="135" r="4" fill="#75D8FF"/>
+  <text x="82" y="104" fill="#78D8FF" font-family="monospace" font-size="15" letter-spacing="5">HELLO, WORLD — I'M</text>
+  <text x="78" y="174" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.5">NIKHIL SAI REDDY</text>
+  <text x="82" y="218" fill="#C5D3E4" font-family="Arial, Helvetica, sans-serif" font-size="22">AI &amp; ML Student  /  Software Developer</text>
+  <path d="M82 254H530" stroke="url(#accent)" stroke-width="2"/>
+  <text x="82" y="290" fill="#8FA7C2" font-family="monospace" font-size="14" letter-spacing="2">BUILDING IDEAS INTO USEFUL PRODUCTS</text>
+  <rect x="82" y="316" width="8" height="8" rx="2" fill="#70D8FF"/>
+  <text x="100" y="325" fill="#A9BED4" font-family="monospace" font-size="12" letter-spacing="1.5">VIZAG, INDIA</text>
+</svg>
