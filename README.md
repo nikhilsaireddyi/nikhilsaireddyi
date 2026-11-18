@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nikhilsaireddyi/nikhilsaireddyi/main/assets/profile-header.svg?v=apple1" width="100%" alt="Nikhil Sai Reddy — Developer and AI & ML student" />
+<img src="https://raw.githubusercontent.com/nikhilsaireddyi/nikhilsaireddyi/main/assets/profile-header.svg?v=c63c5cbdb9316684c94123e64c1e0310caefe9da" width="100%" alt="Nikhil Sai Reddy — Developer and AI & ML student" />
 
 <br/>
 
@@ -53,11 +53,37 @@ Product and interaction design
 
 ## Tools I work with
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**LANGUAGES**
+
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,c,react,nextjs,tailwind,nodejs,git,github,vscode&theme=dark" alt="Python, TypeScript, JavaScript, C, React, Next.js, Tailwind CSS, Node.js, Git, GitHub and VS Code" />
-
+<img src="https://skillicons.dev/icons?i=python,ts,js,c&theme=dark" alt="Python, TypeScript, JavaScript and C" />
 </div>
+
+</td>
+<td width="34%" valign="top">
+
+**FRAMEWORKS**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs&theme=dark" alt="React, Next.js, Tailwind CSS and Node.js" />
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+**TOOLS**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code" />
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -73,6 +99,8 @@ Product and interaction design
 
 ### HeatShield AI
 
+<sub>AI · CLIMATE · WORKER SAFETY</sub>
+
 An AI-assisted project exploring heat-risk awareness and practical worker-safety insights.
 
 [Explore project ↗](https://github.com/nikhilsaireddyi/HeatSheild-AI-)
@@ -85,6 +113,8 @@ An AI-assisted project exploring heat-risk awareness and practical worker-safety
 </a>
 
 ### GANESH: THE QUEST
+
+<sub>3D · GAME DEVELOPMENT · FESTIVAL</sub>
 
 A festival-inspired 3D adventure game project focused on an interactive experience.
 
