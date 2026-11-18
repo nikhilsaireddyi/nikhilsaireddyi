@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Nikhil Sai Reddy: Build thoughtfully. Stay curious.">
+<defs><linearGradient id="a" x1="0" x2="1"><stop stop-color="#0C1220"/><stop offset="1" stop-color="#202238"/></linearGradient></defs>
+<rect width="1200" height="150" rx="16" fill="url(#a)"/>
+<path d="M25 22H1175M25 128H1175" fill="none" stroke="#B1A6A4" stroke-opacity=".2"/>
+<path d="M25 22H215M985 128H1175" stroke="#E8BB70" stroke-width="3"/>
+<text x="58" y="67" font-family="monospace" fill="#D9C8B5" font-size="13" letter-spacing="3">NO MORE PLACEHOLDERS. JUST PROGRESS.</text>
+<text x="54" y="107" font-family="Arial,Helvetica,sans-serif" fill="#F8E8CF" font-size="39" font-weight="800">LET'S BUILD SOMETHING THAT MATTERS<tspan fill="#E8BB70">.</tspan></text>
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;5 0;0 0" dur="3.4s" repeatCount="indefinite"/>
+  <circle cx="1115" cy="76" r="18" fill="#E8BB70"/>
+  <path d="M1105 76h19m-8-8 8 8-8 8" fill="none" stroke="#0C1220" stroke-width="3"/>
+</g>
+</svg>
