@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/nikhilsaireddyi/nikhilsaireddyi/main/assets/profile-header.svg?v=9053c267ee8975d6c8dc255f0b68f5b7b1a6de7c" width="100%" alt="Nikhil Sai Reddy — AI, software and product builder" />
 
+<img src="https://raw.githubusercontent.com/nikhilsaireddyi/nikhilsaireddyi/main/assets/role-ticker.svg?v=a0f41565861ef29acc30e2b3eb782a9aacf1cde1" width="100%" alt="Developer · AI/ML Builder · Product Builder · Software Explorer · Creative Technologist" />
+
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432">LinkedIn</a>
