@@ -1,7 +1,9 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:243B55,100:5B7C99&height=220&section=header&text=Nikhil%20Sai%20Reddy&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20ML%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descSize=17" width="100%" alt="Nikhil Sai Reddy profile banner" />
+<h1 align="center">Nikhil Sai Reddy</h1>
+<h3 align="center">AI &amp; ML Student&nbsp; | &nbsp;Developer&nbsp; | &nbsp;Builder</h3>
+<p align="center">Building practical software and exploring intelligent systems.</p>
 
 <a href="https://github.com/nikhilsaireddyi">
   <img src="https://komarev.com/ghpvc/?username=nikhilsaireddyi&style=for-the-badge&color=243B55&label=PROFILE+VIEWS" alt="Profile views" />
