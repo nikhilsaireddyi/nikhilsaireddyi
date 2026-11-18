@@ -6,7 +6,11 @@
  <path d="M0 34H317" stroke="#507C72"/><circle cx="18" cy="17" r="4" fill="#BFFE6D"/><circle cx="34" cy="17" r="4" fill="#5FE5C2"/><circle cx="50" cy="17" r="4" fill="#4E6C65"/>
  <text x="282" y="22" font-family="monospace" fill="#C4E7D8" font-size="11" text-anchor="end">NEURAL / UI</text>
  <g fill="none" stroke="url(#line)" stroke-width="2"><path d="M30 154L94 105 155 146 219 76 281 113"/><path d="M30 96L94 105 155 70 219 76 281 113" opacity=".42"/></g>
- <g fill="#BFFE6D"><circle cx="94" cy="105" r="7"/><circle cx="219" cy="76" r="7"/></g><g fill="#5FE5C2"><circle cx="30" cy="154" r="6"/><circle cx="155" cy="146" r="6"/><circle cx="281" cy="113" r="6"/></g>
+ <g fill="#BFFE6D"><animate attributeName="opacity" values="1;.55;1" dur="5s" repeatCount="indefinite"/><circle cx="94" cy="105" r="7"/><circle cx="219" cy="76" r="7"/></g><g fill="#5FE5C2"><circle cx="30" cy="154" r="6"/><circle cx="155" cy="146" r="6"/><circle cx="281" cy="113" r="6"/></g>
+ <!-- A subtle travelling spark shows a system in motion. -->
+ <circle r="4" fill="#EBFFD2">
+   <animateMotion path="M30,154 L94,105 L155,146 L219,76 L281,113" dur="6.5s" repeatCount="indefinite"/>
+ </circle>
  <rect x="30" y="177" width="98" height="8" rx="4" fill="#6DD6B9" opacity=".4"/><rect x="30" y="193" width="165" height="8" rx="4" fill="#6DD6B9" opacity=".2"/>
 </g>
 <rect x="22" y="20" width="174" height="30" rx="5" fill="#C9FF6E"/><text x="35" y="41" font-family="monospace" font-size="14" font-weight="bold" fill="#0A1714">PROJECT 02 / WEB</text>
