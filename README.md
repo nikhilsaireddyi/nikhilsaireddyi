@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ NIKHIL SAI REDDY
+<img src="https://raw.githubusercontent.com/nikhilsaireddyi/nikhilsaireddyi/main/assets/name-masthead.svg?v=8e56fed7a4a5c211f484f31556afdb1b46e4452a" width="100%" alt="Nikhil Sai Reddy" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2200&pause=700&color=E04444&center=true&vCenter=true&width=850&lines=AI%2FML+BUILDER;SOFTWARE+DEVELOPER;PRODUCT+BUILDER;FRONTEND+DEVELOPER;BUILD.+LEARN.+EVOLVE." alt="Animated developer roles" />
 
