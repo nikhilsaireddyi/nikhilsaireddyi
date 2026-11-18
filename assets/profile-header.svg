@@ -1,19 +1,17 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg">
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#111315"/><stop offset="1" stop-color="#202326"/></linearGradient>
- <linearGradient id="line" x1="80" y1="0" x2="1120" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#D9DDE0" stop-opacity=".05"/><stop offset=".5" stop-color="#D9DDE0" stop-opacity=".55"/><stop offset="1" stop-color="#D9DDE0" stop-opacity=".05"/></linearGradient>
- <pattern id="grain" width="4" height="4" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".45" fill="#FFFFFF" fill-opacity=".08"/></pattern>
+ <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#101214"/><stop offset=".62" stop-color="#181B1E"/><stop offset="1" stop-color="#222629"/></linearGradient>
+ <linearGradient id="gold" x1="80" y1="0" x2="900" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#D9C39B"/><stop offset="1" stop-color="#8E9A96"/></linearGradient>
+ <radialGradient id="halo" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(950 180) rotate(90) scale(190 260)"><stop stop-color="#B9A47F" stop-opacity=".13"/><stop offset="1" stop-color="#B9A47F" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" stroke="#FFFFFF" stroke-opacity=".035"/></pattern>
 </defs>
-<rect width="1200" height="360" rx="18" fill="url(#bg)"/>
-<rect width="1200" height="360" rx="18" fill="url(#grain)"/>
-<path d="M80 78H1120" stroke="url(#line)"/>
-<path d="M80 282H1120" stroke="url(#line)"/>
-<text x="82" y="125" fill="#A7ADB2" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="4">COMPUTER SCIENCE  /  ARTIFICIAL INTELLIGENCE</text>
-<text x="76" y="198" fill="#F5F5F2" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="600" letter-spacing="-2">Nikhil Sai Reddy</text>
-<text x="82" y="239" fill="#B7BDC1" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing=".2">Developer · AI &amp; ML Student · Builder</text>
-<text x="82" y="322" fill="#8D959B" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">NIAT  ·  VISAKHAPATNAM, INDIA</text>
-<circle cx="1068" cy="180" r="76" stroke="#DDE1E3" stroke-opacity=".10"/>
-<circle cx="1068" cy="180" r="57" stroke="#DDE1E3" stroke-opacity=".16"/>
-<path d="M1027 204L1055 174L1075 190L1110 146" stroke="#DDE1E3" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity=".75"/>
-<circle cx="1027" cy="204" r="3" fill="#DDE1E3"/><circle cx="1055" cy="174" r="3" fill="#DDE1E3"/><circle cx="1075" cy="190" r="3" fill="#DDE1E3"/><circle cx="1110" cy="146" r="3" fill="#DDE1E3"/>
+<rect width="1200" height="390" rx="20" fill="url(#bg)"/><rect width="1200" height="390" rx="20" fill="url(#halo)"/><rect width="1200" height="390" rx="20" fill="url(#grid)"/>
+<path d="M76 72H1124" stroke="#FFFFFF" stroke-opacity=".12"/><path d="M76 316H1124" stroke="#FFFFFF" stroke-opacity=".12"/>
+<text x="82" y="116" fill="#B9A47F" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" letter-spacing="4">AI / SOFTWARE / PRODUCT</text>
+<text x="76" y="195" fill="#F4F3EF" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="600" letter-spacing="-3">Nikhil Sai Reddy</text>
+<text x="82" y="239" fill="#C1C6C7" font-family="Arial, Helvetica, sans-serif" font-size="21">Building thoughtful digital experiences with code and AI.</text>
+<text x="82" y="356" fill="#8E989B" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.5">CSE · ARTIFICIAL INTELLIGENCE &amp; MACHINE LEARNING  /  NIAT, VIZAG</text>
+<circle cx="1000" cy="192" r="112" stroke="#D9C39B" stroke-opacity=".12"/><circle cx="1000" cy="192" r="88" stroke="#D9C39B" stroke-opacity=".22"/><circle cx="1000" cy="192" r="65" stroke="#D9C39B" stroke-opacity=".12"/>
+<text x="1000" y="212" text-anchor="middle" fill="url(#gold)" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="500" letter-spacing="-4">NR</text>
+<path d="M920 286L1080 98" stroke="url(#gold)" stroke-opacity=".4" stroke-width="1"/>
 </svg>
