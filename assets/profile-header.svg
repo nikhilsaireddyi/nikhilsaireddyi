@@ -1,38 +1,19 @@
 <svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="base" x1="50" y1="20" x2="1150" y2="390" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#070B13"/><stop offset=".56" stop-color="#101B2B"/><stop offset="1" stop-color="#182B42"/>
-    </linearGradient>
-    <linearGradient id="blue" x1="110" y1="100" x2="1060" y2="290" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#6BE0FF"/><stop offset="1" stop-color="#849BFF"/>
-    </linearGradient>
-    <radialGradient id="aura" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(940 170) rotate(90) scale(250 300)">
-      <stop stop-color="#398FC6" stop-opacity=".22"/><stop offset="1" stop-color="#398FC6" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="mesh" width="42" height="42" patternUnits="userSpaceOnUse">
-      <path d="M42 0H0V42" stroke="#A9C9E8" stroke-opacity=".07"/>
-      <circle cx="0" cy="0" r="1.3" fill="#8CCEFF" fill-opacity=".2"/>
-    </pattern>
-  </defs>
-  <rect width="1200" height="390" rx="20" fill="url(#base)"/>
-  <rect width="1200" height="390" rx="20" fill="url(#mesh)"/>
-  <rect width="1200" height="390" rx="20" fill="url(#aura)"/>
-  <path d="M0 330H1200" stroke="#9AC8E9" stroke-opacity=".12"/>
-  <path d="M760 0L1200 390M900 0L1200 270" stroke="#8ECFFF" stroke-opacity=".08"/>
-  <text x="82" y="93" fill="#76DFFF" font-family="monospace" font-size="14" letter-spacing="4">HELLO, I'M NIKHIL</text>
-  <text x="78" y="166" fill="#F5F8FC" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">NIKHIL SAI REDDY</text>
-  <text x="82" y="211" fill="#C4D3E4" font-family="Arial, Helvetica, sans-serif" font-size="22">AI &amp; ML Student  /  Software Developer</text>
-  <rect x="82" y="247" width="72" height="3" rx="1.5" fill="url(#blue)"/>
-  <text x="82" y="282" fill="#A6BBD0" font-family="monospace" font-size="14" letter-spacing="2">CURIOUS BY NATURE. BUILDER BY PRACTICE.</text>
-  <text x="82" y="350" fill="#82A0BA" font-family="monospace" font-size="12" letter-spacing="2">NIAT  ·  VIZAG, INDIA</text>
-  <g transform="translate(930 185)">
-    <circle r="118" stroke="#78D9FF" stroke-opacity=".18"/>
-    <circle r="88" stroke="#78D9FF" stroke-opacity=".34" stroke-dasharray="3 8"/>
-    <circle r="57" stroke="#8DABFF" stroke-opacity=".5"/>
-    <path d="M-118 0H-72M72 0H118M0-118V-72M0 72V118" stroke="#78D9FF" stroke-opacity=".55" stroke-width="1.5"/>
-    <path d="M-55 32L-16-20L18 9L63-49" stroke="url(#blue)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="-55" cy="32" r="4" fill="#78D9FF"/><circle cx="-16" cy="-20" r="4" fill="#78D9FF"/><circle cx="18" cy="9" r="4" fill="#78D9FF"/><circle cx="63" cy="-49" r="4" fill="#78D9FF"/>
-    <circle r="7" fill="#78D9FF"/>
-  </g>
-  <text x="1080" y="350" text-anchor="end" fill="#718DA8" font-family="monospace" font-size="11" letter-spacing="2">BUILD / LEARN / REPEAT</text>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#160B35"/><stop offset=".48" stop-color="#14265A"/><stop offset="1" stop-color="#073D52"/></linearGradient>
+ <linearGradient id="rainbow" x1="80" y1="80" x2="1080" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#FF6B9A"/><stop offset=".34" stop-color="#B18CFF"/><stop offset=".68" stop-color="#4DD9FF"/><stop offset="1" stop-color="#67F5C2"/></linearGradient>
+ <radialGradient id="pink" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 60) rotate(55) scale(330 450)"><stop stop-color="#F04D9B" stop-opacity=".3"/><stop offset="1" stop-color="#F04D9B" stop-opacity="0"/></radialGradient>
+ <radialGradient id="cyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1030 220) rotate(90) scale(250 340)"><stop stop-color="#20D9E8" stop-opacity=".3"/><stop offset="1" stop-color="#20D9E8" stop-opacity="0"/></radialGradient>
+ <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#D8E8FF" fill-opacity=".18"/></pattern>
+</defs>
+<rect width="1200" height="390" rx="24" fill="url(#bg)"/><rect width="1200" height="390" rx="24" fill="url(#pink)"/><rect width="1200" height="390" rx="24" fill="url(#cyan)"/><rect width="1200" height="390" rx="24" fill="url(#dots)"/>
+<circle cx="1000" cy="184" r="145" stroke="url(#rainbow)" stroke-opacity=".55" stroke-width="2"/><circle cx="1000" cy="184" r="112" stroke="#9FEAFF" stroke-opacity=".4" stroke-dasharray="4 9"/><circle cx="1000" cy="184" r="76" stroke="#FF8BC3" stroke-opacity=".55"/>
+<path d="M865 255L930 177L982 218L1075 103" stroke="url(#rainbow)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="865" cy="255" r="6" fill="#FF83B7"/><circle cx="930" cy="177" r="6" fill="#B18CFF"/><circle cx="982" cy="218" r="6" fill="#4DD9FF"/><circle cx="1075" cy="103" r="6" fill="#67F5C2"/>
+<text x="78" y="91" fill="#79E9FF" font-family="monospace" font-size="15" letter-spacing="4">HEY THERE! I'M</text>
+<text x="74" y="165" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">NIKHIL SAI REDDY</text>
+<text x="80" y="211" fill="#E3E8FF" font-family="Arial, Helvetica, sans-serif" font-size="23">AI &amp; ML Student  ·  Developer  ·  Creator</text>
+<rect x="80" y="246" width="330" height="4" rx="2" fill="url(#rainbow)"/>
+<text x="80" y="284" fill="#C7D5F5" font-family="monospace" font-size="14" letter-spacing="2">DREAM IT. BUILD IT. MAKE IT REAL.</text>
+<text x="80" y="348" fill="#A6B8E8" font-family="monospace" font-size="12" letter-spacing="2">NIAT  ·  VIZAG, INDIA</text>
+<circle cx="1120" cy="52" r="7" fill="#FF6B9A"/><circle cx="1150" cy="82" r="5" fill="#67F5C2"/><circle cx="840" cy="65" r="5" fill="#4DD9FF"/>
 </svg>
