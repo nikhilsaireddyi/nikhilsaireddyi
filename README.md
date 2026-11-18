@@ -1,49 +1,49 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nikhilsaireddyi/nikhilsaireddyi/main/assets/profile-header.svg?v=c63c5cbdb9316684c94123e64c1e0310caefe9da" width="100%" alt="Nikhil Sai Reddy — Developer and AI & ML student" />
+<img src="https://raw.githubusercontent.com/nikhilsaireddyi/nikhilsaireddyi/main/assets/profile-header.svg?v=9053c267ee8975d6c8dc255f0b68f5b7b1a6de7c" width="100%" alt="Nikhil Sai Reddy — AI, software and product builder" />
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/nikhilsaireddyi">GitHub</a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432">LinkedIn</a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://nikhil-portfolio-mai54drkv-vibex1.vercel.app">Portfolio</a> &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://nikhil-portfolio-mai54drkv-vibex1.vercel.app">Portfolio</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="mailto:nikhilsaireddyi@gmail.com">Email</a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-*I like building useful things at the intersection of software, AI, and design.*
+*Curious by nature. Building with intent.*
 
 </div>
 
 ---
 
-## A little about me
-
-I'm **Nikhil Sai Reddy**, a Computer Science student specializing in **Artificial Intelligence & Machine Learning** at **NIAT, Visakhapatnam**.
-
-I learn by building: exploring an idea, shaping it into a working product, and refining the details until the experience feels right.
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-**EDUCATION**
+## The person behind the code
 
-B.Tech — CSE (AI & ML)  
-NIAT, Visakhapatnam
+I'm **Nikhil Sai Reddy**, a Computer Science student focused on **Artificial Intelligence & Machine Learning** at **NIAT, Visakhapatnam**.
+
+I enjoy taking ideas from concept to working product — combining software, AI, and thoughtful design to make digital experiences useful and intuitive.
 
 </td>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-**WHAT INTERESTS ME**
+## At a glance
 
-Artificial Intelligence & LLMs  
-Software engineering  
-Product and interaction design
+**STUDY**  
+B.Tech · CSE (AI & ML)
+
+**BASED AT**  
+Visakhapatnam, India
+
+**INTERESTS**  
+AI · LLMs · Software · Product design
+
+**APPROACH**  
+Learn by building
 
 </td>
 </tr>
@@ -51,35 +51,29 @@ Product and interaction design
 
 ---
 
-## Tools I work with
+## Technology
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**LANGUAGES**
+**01 — LANGUAGES**
 
-<div align="center">
 <img src="https://skillicons.dev/icons?i=python,ts,js,c&theme=dark" alt="Python, TypeScript, JavaScript and C" />
-</div>
 
 </td>
-<td width="34%" valign="top">
+<td width="37%" valign="top">
 
-**FRAMEWORKS**
+**02 — FRAMEWORKS**
 
-<div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs&theme=dark" alt="React, Next.js, Tailwind CSS and Node.js" />
-</div>
 
 </td>
-<td width="33%" valign="top">
+<td width="30%" valign="top">
 
-**TOOLS**
+**03 — TOOLS**
 
-<div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code" />
-</div>
 
 </td>
 </tr>
@@ -94,31 +88,31 @@ Product and interaction design
 <td width="50%" valign="top">
 
 <a href="https://github.com/nikhilsaireddyi/HeatSheild-AI-">
-<img src="./assets/heatshield-card.svg" width="100%" alt="HeatShield AI project artwork" />
+<img src="./assets/heatshield-card.svg" width="100%" alt="HeatShield AI — project artwork" />
 </a>
 
 ### HeatShield AI
 
-<sub>AI · CLIMATE · WORKER SAFETY</sub>
+<sub>AI &nbsp;·&nbsp; CLIMATE &nbsp;·&nbsp; WORKER SAFETY</sub>
 
-An AI-assisted project exploring heat-risk awareness and practical worker-safety insights.
+Exploring heat-risk awareness and practical worker-safety insights with AI.
 
-[Explore project ↗](https://github.com/nikhilsaireddyi/HeatSheild-AI-)
+[View project](https://github.com/nikhilsaireddyi/HeatSheild-AI-)
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/nikhilsaireddyi/ganesh-the-quest">
-<img src="./assets/ganesh-card.svg" width="100%" alt="GANESH: THE QUEST project artwork" />
+<img src="./assets/ganesh-card.svg" width="100%" alt="GANESH: THE QUEST — project artwork" />
 </a>
 
 ### GANESH: THE QUEST
 
-<sub>3D · GAME DEVELOPMENT · FESTIVAL</sub>
+<sub>3D &nbsp;·&nbsp; GAME DEVELOPMENT &nbsp;·&nbsp; FESTIVAL</sub>
 
-A festival-inspired 3D adventure game project focused on an interactive experience.
+A festival-inspired adventure game built around an interactive experience.
 
-[Explore project ↗](https://github.com/nikhilsaireddyi/ganesh-the-quest)
+[View project](https://github.com/nikhilsaireddyi/ganesh-the-quest)
 
 </td>
 </tr>
@@ -126,19 +120,26 @@ A festival-inspired 3D adventure game project focused on an interactive experien
 
 ---
 
-## What I'm focused on
+## What drives me
 
-- Building practical AI-powered applications
-- Strengthening software architecture and engineering fundamentals
-- Creating polished, intuitive digital experiences
+- Exploring practical applications of AI and machine learning
+- Strengthening engineering fundamentals and writing better software
+- Turning early concepts into thoughtful, usable products
 
 ---
 
 <div align="center">
 
-**Have an interesting idea? Let's build something meaningful.**
+### Let's make something meaningful.
 
-<a href="https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432">Connect on LinkedIn</a> &nbsp;·&nbsp;
-<a href="mailto:nikhilsaireddyi@gmail.com">Send me an email</a>
+Open to thoughtful conversations, learning, and collaboration.
+
+<a href="https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432">Connect on LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:nikhilsaireddyi@gmail.com">Get in touch</a>
+
+<br/><br/>
+
+<sub>© Nikhil Sai Reddy · Built with curiosity.</sub>
 
 </div>
