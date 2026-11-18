@@ -1,19 +1,19 @@
-<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#101820"/><stop offset=".55" stop-color="#182A35"/><stop offset="1" stop-color="#202A30"/></linearGradient>
- <linearGradient id="accent" x1="80" y1="80" x2="1080" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#B08D57"/><stop offset=".55" stop-color="#88A6B8"/><stop offset="1" stop-color="#A7B6A2"/></linearGradient>
- <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1000 180) rotate(90) scale(240 360)"><stop stop-color="#66869A" stop-opacity=".22"/><stop offset="1" stop-color="#66869A" stop-opacity="0"/></radialGradient>
- <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#D9E2E8" stroke-opacity=".055"/></pattern>
+ <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#111315"/><stop offset="1" stop-color="#202326"/></linearGradient>
+ <linearGradient id="line" x1="80" y1="0" x2="1120" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#D9DDE0" stop-opacity=".05"/><stop offset=".5" stop-color="#D9DDE0" stop-opacity=".55"/><stop offset="1" stop-color="#D9DDE0" stop-opacity=".05"/></linearGradient>
+ <pattern id="grain" width="4" height="4" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".45" fill="#FFFFFF" fill-opacity=".08"/></pattern>
 </defs>
-<rect width="1200" height="390" rx="20" fill="url(#bg)"/><rect width="1200" height="390" rx="20" fill="url(#glow)"/><rect width="1200" height="390" rx="20" fill="url(#grid)"/>
-<path d="M820 300L920 220L990 260L1100 115" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
-<circle cx="820" cy="300" r="5" fill="#B08D57"/><circle cx="920" cy="220" r="5" fill="#88A6B8"/><circle cx="990" cy="260" r="5" fill="#88A6B8"/><circle cx="1100" cy="115" r="5" fill="#A7B6A2"/>
-<circle cx="1000" cy="190" r="145" stroke="#A8BAC3" stroke-opacity=".14"/><circle cx="1000" cy="190" r="108" stroke="#B08D57" stroke-opacity=".25" stroke-dasharray="3 9"/>
-<text x="78" y="91" fill="#B08D57" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" letter-spacing="4">COMPUTER SCIENCE  /  AI &amp; ML</text>
-<text x="74" y="165" fill="#F2F0EA" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">NIKHIL SAI REDDY</text>
-<text x="80" y="211" fill="#C3CFD3" font-family="Arial, Helvetica, sans-serif" font-size="22">Developer  ·  AI &amp; ML Student  ·  Creator</text>
-<rect x="80" y="246" width="270" height="3" rx="1.5" fill="url(#accent)"/>
-<text x="80" y="284" fill="#B9C5C9" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">BUILDING IDEAS INTO REAL-WORLD EXPERIENCES</text>
-<text x="80" y="348" fill="#84969E" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">NIAT  ·  VISAKHAPATNAM, INDIA</text>
-<circle cx="1135" cy="60" r="4" fill="#B08D57"/><circle cx="1160" cy="84" r="3" fill="#A7B6A2"/><circle cx="845" cy="70" r="3" fill="#88A6B8"/>
+<rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="18" fill="url(#grain)"/>
+<path d="M80 78H1120" stroke="url(#line)"/>
+<path d="M80 282H1120" stroke="url(#line)"/>
+<text x="82" y="125" fill="#A7ADB2" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="4">COMPUTER SCIENCE  /  ARTIFICIAL INTELLIGENCE</text>
+<text x="76" y="198" fill="#F5F5F2" font-family="Arial, Helvetica, sans-serif" font-size=" sixty" font-size="60" font-weight="600" letter-spacing="-2">Nikhil Sai Reddy</text>
+<text x="82" y="239" fill="#B7BDC1" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing=".2">Developer · AI &amp; ML Student · Builder</text>
+<text x="82" y="322" fill="#8D959B" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">NIAT  ·  VISAKHAPATNAM, INDIA</text>
+<circle cx="1068" cy="180" r="76" stroke="#DDE1E3" stroke-opacity=".10"/>
+<circle cx="1068" cy="180" r="57" stroke="#DDE1E3" stroke-opacity=".16"/>
+<path d="M1027 204L1055 174L1075 190L1110 146" stroke="#DDE1E3" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity=".75"/>
+<circle cx="1027" cy="204" r="3" fill="#DDE1E3"/><circle cx="1055" cy="174" r="3" fill="#DDE1E3"/><circle cx="1075" cy="190" r="3" fill="#DDE1E3"/><circle cx="1110" cy="146" r="3" fill="#DDE1E3"/>
 </svg>
