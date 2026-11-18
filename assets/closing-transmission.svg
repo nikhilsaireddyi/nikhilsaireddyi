@@ -5,5 +5,9 @@
 <path d="M25 22H215M985 128H1175" stroke="#C9FE6A" stroke-width="3"/>
 <text x="58" y="67" font-family="monospace" fill="#B8D1BE" font-size="13" letter-spacing="3">NO MORE PLACEHOLDERS. JUST PROGRESS.</text>
 <text x="54" y="107" font-family="Arial,Helvetica,sans-serif" fill="#F2F9ED" font-size="39" font-weight="800">LET'S BUILD SOMETHING THAT MATTERS<tspan fill="#C9FE6A">.</tspan></text>
-<circle cx="1115" cy="76" r="18" fill="#C9FE6A"/><path d="M1105 76h19m-8-8 8 8-8 8" fill="none" stroke="#0B1410" stroke-width="3"/>
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;5 0;0 0" dur="3.4s" repeatCount="indefinite"/>
+  <circle cx="1115" cy="76" r="18" fill="#C9FE6A"/>
+  <path d="M1105 76h19m-8-8 8 8-8 8" fill="none" stroke="#0B1410" stroke-width="3"/>
+</g>
 </svg>
