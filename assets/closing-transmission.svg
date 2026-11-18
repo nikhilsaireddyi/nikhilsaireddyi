@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="155" viewBox="0 0 1200 155" role="img" aria-label="End of transmission — Keep building">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#151028"/></linearGradient><linearGradient id="line"><stop stop-color="#64f4f6"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#b5fc6c"/></linearGradient></defs>
+<rect width="1200" height="155" rx="14" fill="url(#bg)"/><path d="M20 20h1160M20 135h1160" stroke="url(#line)" stroke-width="2" opacity=".7"/>
+<g font-family="monospace" text-anchor="middle"><text x="600" y="54" fill="#9adcf0" font-size="14" letter-spacing="4">END OF TRANSMISSION / NIKHIL SAI REDDY</text><text x="600" y="93" fill="#f4f6ff" font-weight="bold" font-size="27" letter-spacing="5">STAY CURIOUS. SHIP THE FUTURE.</text><text x="600" y="118" fill="#a8b9d4" font-size="13" letter-spacing="2">BUILD  /  LEARN  /  EVOLVE</text></g>
+<circle cx="35" cy="78" r="5" fill="#b5fc6c"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
+</svg>
