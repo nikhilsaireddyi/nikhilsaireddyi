@@ -5,32 +5,29 @@
 
 <br/>
 
-<a href="https://github.com/nikhilsaireddyi">
-  <img src="https://img.shields.io/badge/GITHUB-%40nikhilsaireddyi-172A40?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<a href="https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-172A40?style=flat-square&logo=linkedin&logoColor=78D8FF" alt="LinkedIn" />
-</a>
-<a href="https://nikhil-portfolio-mai54drkv-vibex1.vercel.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-172A40?style=flat-square&logo=vercel&logoColor=78D8FF" alt="Portfolio" />
-</a>
+<a href="https://github.com/nikhilsaireddyi"><img src="https://img.shields.io/badge/GITHUB-PROFILE-111D31?style=flat-square&logo=github&logoColor=78D8FF" alt="GitHub profile" /></a>
+<a href="https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111D31?style=flat-square&logo=linkedin&logoColor=78D8FF" alt="LinkedIn" /></a>
+<a href="https://nikhil-portfolio-mai54drkv-vibex1.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-111D31?style=flat-square&logo=vercel&logoColor=78D8FF" alt="Portfolio" /></a>
+<a href="mailto:nikhilsaireddyi@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-111D31?style=flat-square&logo=gmail&logoColor=78D8FF" alt="Email" /></a>
 
 </div>
 
----
+<br/>
 
-### 01 / PROFILE
+## 01 — A little about me
 
 I'm **Nikhil Sai Reddy**, a Computer Science student specializing in **Artificial Intelligence & Machine Learning** at **NIAT, Vizag**.
 
-I like building things that solve practical problems — from AI-powered applications to polished web experiences. I'm interested in the space where **software engineering, intelligent systems, and product thinking** meet.
+I enjoy taking ideas from a blank page to a working product. My interests sit around **applied AI, thoughtful software engineering, and useful digital experiences**.
 
-- Currently exploring **AI, machine learning, and LLM-powered products**
-- Building with **Next.js, React, TypeScript, and Tailwind CSS**
-- Interested in **full-stack development, applied AI, and experimental projects**
-- Always learning through hands-on building
+```text
+CURRENT MODE   Learning by building
+EXPLORING      AI · ML · LLM-powered applications
+BUILDING WITH  Next.js · React · TypeScript · Tailwind CSS
+BASED IN       Vizag, India
+```
 
-### 02 / TECHNOLOGY
+## 02 — Tools I work with
 
 <div align="center">
 
@@ -38,52 +35,45 @@ I like building things that solve practical problems — from AI-powered applica
 
 </div>
 
-### 03 / SELECTED WORK
+## 03 — Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/nikhilsaireddyi/HeatSheild-AI-">HEATSHIELD AI</a></strong><br/>
-      <sub>AI · SAFETY · REAL-WORLD IMPACT</sub><br/><br/>
-      An AI-assisted heat-risk and worker-safety project focused on practical safety insights.
+      <a href="https://github.com/nikhilsaireddyi/HeatSheild-AI-"><strong>01 / HEATSHIELD AI ↗</strong></a><br/>
+      <sub>APPLIED AI · HEAT RISK · WORKER SAFETY</sub>
+      <p>An AI-assisted project exploring heat-risk awareness and practical worker-safety insights.</p>
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/nikhilsaireddyi/ganesh-the-quest">GANESH: THE QUEST</a></strong><br/>
-      <sub>GAME DEVELOPMENT · 3D · INTERACTIVE</sub><br/><br/>
-      A festival-inspired 3D adventure game project.
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <strong><a href="https://nikhil-portfolio-mai54drkv-vibex1.vercel.app">PERSONAL PORTFOLIO</a></strong><br/>
-      <sub>DESIGN · FRONTEND · PERSONAL BRAND</sub><br/><br/>
-      A showcase of my projects, interests, and developer journey.
+      <a href="https://github.com/nikhilsaireddyi/ganesh-the-quest"><strong>02 / GANESH: THE QUEST ↗</strong></a><br/>
+      <sub>GAME DEVELOPMENT · 3D · INTERACTIVE</sub>
+      <p>A festival-inspired 3D adventure game concept built around an interactive experience.</p>
     </td>
   </tr>
 </table>
 
-### 04 / CURRENT FOCUS
-
 <div align="center">
-
-| AREA | FOCUS |
-|:---|:---|
-| **AI / ML** | Understanding models and building useful AI applications |
-| **Engineering** | Writing clean, maintainable TypeScript and React |
-| **Product** | Turning real-world problems into working prototypes |
-
+  <a href="https://nikhil-portfolio-mai54drkv-vibex1.vercel.app"><strong>EXPLORE MY PORTFOLIO ↗</strong></a>
+  <br/>
+  <sub>More about my work, experiments, and developer journey.</sub>
 </div>
 
-### 05 / FIND ME
+## 04 — What I'm focused on
+
+- **Applied AI:** learning how intelligent systems can solve practical problems.
+- **Software engineering:** building clean interfaces and maintainable applications.
+- **Product thinking:** turning early ideas into useful prototypes and experiences.
+
+## 05 — Around the web
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432"><img src="https://img.shields.io/badge/LinkedIn-78D8FF?style=for-the-badge&logo=linkedin&logoColor=08111F" alt="LinkedIn" /></a>
-<a href="https://nikhil-portfolio-mai54drkv-vibex1.vercel.app"><img src="https://img.shields.io/badge/Portfolio-78D8FF?style=for-the-badge&logo=vercel&logoColor=08111F" alt="Portfolio" /></a>
-<a href="mailto:nikhilsaireddyi@gmail.com"><img src="https://img.shields.io/badge/Email-78D8FF?style=for-the-badge&logo=gmail&logoColor=08111F" alt="Email" /></a>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B1728?style=for-the-badge&logo=linkedin&logoColor=78D8FF)](https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B1728?style=for-the-badge&logo=vercel&logoColor=78D8FF)](https://nikhil-portfolio-mai54drkv-vibex1.vercel.app)
+[![Email](https://img.shields.io/badge/EMAIL-0B1728?style=for-the-badge&logo=gmail&logoColor=78D8FF)](mailto:nikhilsaireddyi@gmail.com)
 
 <br/><br/>
 
-<sub>BUILD WITH CURIOSITY. SHIP WITH PURPOSE.</sub>
+<sub>DESIGN WITH INTENT · BUILD WITH CURIOSITY · KEEP SHIPPING</sub>
 
 </div>
