@@ -3,6 +3,8 @@
 
 <img src="./assets/profile-hero-v3.svg" alt="Nikhil Sai Reddy — Frontend Developer and AI/ML Student" width="100%" />
 
+<img src="./assets/currently-building.svg" alt="Animated status: building interactive web experiences and learning AI/ML" width="100%" />
+
 <br/>
 
 <h3>I turn curiosity into interactive experiences.</h3>
