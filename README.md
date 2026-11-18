@@ -1,4 +1,4 @@
-<!-- Original recruiter-first GitHub profile designed for Nikhil Sai Reddy. -->
+<!-- Original recruiter-first GitHub profile for Nikhil Sai Reddy. Palette: Midnight x Champagne Gold. -->
 <div align="center">
 
 <img src="./assets/profile-hero-v3.svg" alt="Nikhil Sai Reddy — Frontend Developer and AI/ML Student" width="100%" />
@@ -8,6 +8,8 @@
 <br/>
 
 <h3>I turn curiosity into interactive experiences.</h3>
+
+<p><em>Midnight × Champagne Gold · A personal engineering portfolio</em></p>
 
 <p>I'm a <strong>CSE (AI &amp; ML) student in Visakhapatnam</strong> building expressive web interfaces and experimenting with intelligent systems.</p>
 
@@ -117,7 +119,7 @@ If you're reviewing my work, these are useful starting points:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikhilsaireddyi&show_icons=true&hide_border=true&bg_color=0B1110&title_color=C9FE6A&icon_color=7EE2C4&text_color=E4EEE4" alt="GitHub public activity statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=nikhilsaireddyi&show_icons=true&hide_border=true&bg_color=0C1220&title_color=E8BB70&icon_color=CDA875&text_color=F8E8CF" alt="GitHub public activity statistics" />
 
 </div>
 
