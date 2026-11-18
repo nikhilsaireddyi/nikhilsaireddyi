@@ -1,7 +1,7 @@
 <!-- PREMIUM EDITORIAL PROFILE -->
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="Nikhil Sai Reddy — AI and ML student, developer and creator" />
+<img src="https://raw.githubusercontent.com/nikhilsaireddyi/nikhilsaireddyi/7b655587a6801fc34ced7ef09afd64192278470a/assets/profile-header.svg" width="100%" alt="Nikhil Sai Reddy — AI and ML student, developer and creator" />
 
 <br/><br/>
 
@@ -14,7 +14,9 @@
 
 ---
 
-<h2 align="center">01 &nbsp; / &nbsp; ABOUT</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/01%20%E2%80%94%20ABOUT%20ME-343D42?style=for-the-badge&labelColor=B08D57" />
+</div>
 
 ### Hello, I'm Nikhil Sai Reddy.
 
@@ -47,7 +49,9 @@ Web development, product building and hackathons
 
 ---
 
-<h2 align="center">02 &nbsp; / &nbsp; TECHNOLOGY</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/02%20%E2%80%94%20TECHNOLOGY-343D42?style=for-the-badge&labelColor=6F8FA8" />
+</div>
 
 <div align="center">
 
@@ -64,7 +68,9 @@ Web development, product building and hackathons
 
 ---
 
-<h2 align="center">03 &nbsp; / &nbsp; SELECTED WORK</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/03%20%E2%80%94%20SELECTED%20WORK-343D42?style=for-the-badge&labelColor=9B7770" />
+</div>
 
 <table>
 <tr>
@@ -74,7 +80,6 @@ Web development, product building and hackathons
 
 <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-34495E?style=flat-square" />
 <img src="https://img.shields.io/badge/WORKER%20SAFETY-426579?style=flat-square" />
-<img src="https://img.shields.io/badge/NEXT.JS-252525?style=flat-square&logo=next.js&logoColor=white" />
 
 An AI-assisted project exploring heat-risk awareness and practical worker-safety insights.
 
@@ -100,7 +105,9 @@ A festival-inspired 3D adventure game project built around an interactive experi
 
 ---
 
-<h2 align="center">04 &nbsp; / &nbsp; CURRENT FOCUS</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/04%20%E2%80%94%20CURRENT%20FOCUS-343D42?style=for-the-badge&labelColor=536B5C" />
+</div>
 
 <div align="center">
 
@@ -112,9 +119,9 @@ A festival-inspired 3D adventure game project built around an interactive experi
 
 ---
 
-<h2 align="center">05 &nbsp; / &nbsp; LET'S CONNECT</h2>
-
 <div align="center">
+<img src="https://img.shields.io/badge/05%20%E2%80%94%20LET'S%20CONNECT-343D42?style=for-the-badge&labelColor=B08D57" />
+<br/><br/>
 
 **Open to learning, collaboration, and building meaningful projects.**
 
