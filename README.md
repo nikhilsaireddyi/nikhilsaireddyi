@@ -6,24 +6,23 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=nikhilsaireddyi&label=PROFILE+VIEWS&color=e04444&style=for-the-badge" alt="Profile views" />
+<a href="https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://nikhil-portfolio-mai54drkv-vibex1.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=E04444" alt="Portfolio" /></a>
+&nbsp;
+<a href="mailto:nikhilsaireddyi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=nikhilsaireddyi&label=VIEWS&color=E04444&style=for-the-badge" alt="Profile views" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432">LINKEDIN</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://nikhil-portfolio-mai54drkv-vibex1.vercel.app">PORTFOLIO</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:nikhilsaireddyi@gmail.com">EMAIL</a>
+**AI&nbsp; × &nbsp;SOFTWARE&nbsp; × &nbsp;PRODUCT BUILDING**
 
-<br/><br/>
-
-**AI × SOFTWARE × PRODUCT BUILDING**
+<sub>Computer Science · Artificial Intelligence & Machine Learning · NIAT, Visakhapatnam</sub>
 
 *Curious by nature. Building with intent.*
 
 </div>
-
 ---
 
 ## 👨‍💻 About Me
