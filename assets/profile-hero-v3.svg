@@ -1,62 +1,91 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-label="Nikhil Sai Reddy — Frontend developer and AI/ML student. Building interactive experiences.">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-label="Nikhil Sai Reddy, frontend developer and AI/ML student. A cinematic midnight and champagne gold profile header.">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090E1A"/><stop offset=".6" stop-color="#121A2B"/><stop offset="1" stop-color="#171827"/></linearGradient>
-  <linearGradient id="stroke" x1="0" y1="0" x2="1"><stop stop-color="#E8BB70"/><stop offset="1" stop-color="#B99665"/></linearGradient>
-  <radialGradient id="light"><stop stop-color="#E8BB70" stop-opacity=".12"/><stop offset="1" stop-color="#E8BB70" stop-opacity="0"/></radialGradient>
-  <pattern id="dots" width="23" height="23" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#B5ADAE" opacity=".11"/></pattern>
-  <clipPath id="cl"><rect width="1200" height="480" rx="22"/></clipPath>
+ <linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080D1A"/><stop offset=".55" stop-color="#12192B"/><stop offset="1" stop-color="#1D1B2F"/></linearGradient>
+ <radialGradient id="halo"><stop offset="0" stop-color="#E8BB70" stop-opacity=".27"/><stop offset=".48" stop-color="#B78E61" stop-opacity=".12"/><stop offset="1" stop-color="#E8BB70" stop-opacity="0"/></radialGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#AF8554"/><stop offset=".45" stop-color="#F7DBA8"/><stop offset=".68" stop-color="#E8BB70"/><stop offset="1" stop-color="#B58B56"/></linearGradient>
+ <linearGradient id="goldStroke"><stop stop-color="#7F6142"/><stop offset=".5" stop-color="#F3D8A5"/><stop offset="1" stop-color="#8F6D48"/></linearGradient>
+ <linearGradient id="shine" x1="0" x2="1"><stop stop-color="#F9E9CF" stop-opacity="0"/><stop offset=".5" stop-color="#FFF6E8" stop-opacity=".44"/><stop offset="1" stop-color="#F9E9CF" stop-opacity="0"/></linearGradient>
+ <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#A89686" stroke-opacity=".075"/></pattern>
+ <filter id="subtleGlow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <clipPath id="viewport"><rect width="1200" height="480" rx="20"/></clipPath>
 </defs>
-<g clip-path="url(#cl)">
-  <rect width="1200" height="480" fill="url(#bg)"/>
-  <rect width="1200" height="480" fill="url(#dots)"/>
-  <circle cx="1060" cy="190" r="300" fill="url(#light)"/>
-  <path d="M42 72H1158M42 412H1158" fill="none" stroke="#A18B78" stroke-opacity=".3"/>
-  <path d="M804 106V384" stroke="#A18B78" stroke-opacity=".27"/>
-  <g font-family="monospace">
-    <rect x="42" y="29" width="10" height="10" fill="#E8BB70"/>
-    <text x="66" y="39" fill="#F0E3D3" font-size="14" letter-spacing="2">NIKHIL.SAI.REDDY</text>
-    <text x="1126" y="39" fill="#E8BB70" font-size="13" text-anchor="end">PORTFOLIO / 2026</text>
-    <text x="47" y="115" fill="#E8BB70" font-size="16" letter-spacing="4">HELLO, I'M</text>
-  </g>
-  <g font-family="Arial,Helvetica,sans-serif" font-weight="900" letter-spacing="-5">
-    <text x="41" y="225" font-size="122" fill="#F8E8CF">NIKHIL</text>
-    <text x="41" y="337" font-size="117" fill="#E8BB70">SAI REDDY<tspan fill="#F8E8CF">.</tspan></text>
-  </g>
-  <g font-family="monospace">
-    <rect x="45" y="354" width="333" height="32" rx="4" fill="#E8BB70"/>
-    <text x="61" y="375" fill="#0E1320" font-size="14" font-weight="bold" letter-spacing="1">FRONTEND DEVELOPER</text>
-    <text x="400" y="375" fill="#E8D8C8" font-size="14" letter-spacing="1">+ AI/ML STUDENT</text>
-    <text x="45" y="447" fill="#A89D96" font-size="13" letter-spacing="2">VISAKHAPATNAM, INDIA</text>
-    <text x="1160" y="447" fill="#A89D96" text-anchor="end" font-size="13" letter-spacing="2">SCROLL TO SEE THE WORK ↓</text>
-  </g>
-  <!-- A low-intensity scan and progress accents; the content remains readable if animation is disabled. -->
-  <rect x="-260" y="403" width="260" height="2" rx="1" fill="#E8BB70" opacity=".72">
-    <animate attributeName="x" values="-260;1210" dur="13s" repeatCount="indefinite"/>
-  </rect>
-  <g opacity=".76">
-    <circle cx="1141" cy="35" r="4" fill="#E8BB70">
-      <animate attributeName="opacity" values="1;.25;1" dur="3.6s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-  <g transform="translate(822 96)">
-    <rect width="323" height="288" rx="14" fill="#111A2D" stroke="#8B725C" stroke-opacity=".6"/>
-    <path d="M0 48H323" stroke="#8B725C" stroke-opacity=".4"/>
-    <circle cx="23" cy="24" r="5" fill="#E8BB70"/><circle cx="42" cy="24" r="5" fill="#B99665"/><circle cx="61" cy="24" r="5" fill="#665447"/>
-    <text x="298" y="29" text-anchor="end" font-family="monospace" font-size="12" fill="#D1C0AA">EXPERIMENT_01</text>
-    <g transform="translate(36 65)" stroke-linecap="round">
-      <g fill="none" stroke="#D9B78A" stroke-opacity=".22"><path d="M33 55L116 22 203 58 157 147 54 162 33 55 203 58M116 22L157 147M54 162L116 22M54 162L203 58M33 55L157 147"/></g>
-      <g fill="none" stroke="url(#stroke)" stroke-width="2.5"><path d="M33 55L116 22 203 58"/><path d="M54 162L157 147 203 58"/></g>
-      <g fill="#E8BB70"><circle cx="33" cy="55" r="7"/><circle cx="116" cy="22" r="7"/><circle cx="203" cy="58" r="7"/></g>
-      <g fill="#B99665"><circle cx="54" cy="162" r="7"/><circle cx="157" cy="147" r="7"/></g>
-      <!-- A spark travels between nodes to signal experimentation, not fake live metrics. -->
-      <circle r="4.5" fill="#FFF2DE">
-        <animateMotion path="M33,55 L116,22 L203,58 L157,147 L54,162 L33,55" dur="9s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values=".1;1;.1" dur="9s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="116" cy="22" r="15" fill="none" stroke="#E8BB70" stroke-opacity=".25" stroke-width="2"><animate attributeName="r" values="12;24;12" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0;.7" dur="3s" repeatCount="indefinite"/></circle>
-    </g>
-    <text x="21" y="267" font-family="monospace" font-size="13" fill="#E8BB70">DESIGN × ENGINEERING × CURIOSITY</text>
-  </g>
+<g clip-path="url(#viewport)">
+<rect width="1200" height="480" fill="url(#night)"/>
+<rect width="1200" height="480" fill="url(#grid)"/>
+<circle cx="961" cy="237" r="262" fill="url(#halo)"><animate attributeName="opacity" values=".68;1;.68" dur="8s" repeatCount="indefinite"/></circle>
+<path d="M0 0H1200V480H0Z" fill="none" stroke="#9C7C56" stroke-opacity=".35" stroke-width="2"/>
+<path d="M39 74H1160M39 407H1160" stroke="#D0B489" stroke-opacity=".22"/>
+<path d="M762 95V382" stroke="#D0B489" stroke-opacity=".24"/>
+
+<!-- Fine gold scan traces moving behind content. -->
+<g fill="none" stroke="#E8BB70" stroke-opacity=".15" stroke-width="1.3">
+ <path d="M780 135H1160"><animate attributeName="stroke-dasharray" values="0 380;110 270;0 380" dur="11s" repeatCount="indefinite"/></path>
+ <path d="M780 375H1150" stroke-dasharray="5 10"/>
 </g>
-<style>@media(prefers-reduced-motion:reduce){animate{display:none}}</style>
+<circle cx="801" cy="131" r="2.1" fill="#E8BB70" opacity=".45"><animate attributeName="opacity" values=".15;.65;.15" dur="5s" begin="-0s" repeatCount="indefinite"/></circle>
+<circle cx="1086" cy="91" r="1.8" fill="#DFD4C7" opacity=".45"><animate attributeName="opacity" values=".15;.65;.15" dur="8s" begin="-0.6s" repeatCount="indefinite"/></circle>
+<circle cx="1157" cy="204" r="1.6" fill="#DFD4C7" opacity=".45"><animate attributeName="opacity" values=".15;.65;.15" dur="9s" begin="-1.2s" repeatCount="indefinite"/></circle>
+<circle cx="775" cy="339" r="1.9" fill="#E8BB70" opacity=".45"><animate attributeName="opacity" values=".15;.65;.15" dur="11s" begin="-1.7999999999999998s" repeatCount="indefinite"/></circle>
+<circle cx="1083" cy="362" r="2.3" fill="#DFD4C7" opacity=".45"><animate attributeName="opacity" values=".15;.65;.15" dur="7s" begin="-2.4s" repeatCount="indefinite"/></circle>
+<circle cx="932" cy="67" r="1.6" fill="#DFD4C7" opacity=".45"><animate attributeName="opacity" values=".15;.65;.15" dur="13s" begin="-3s" repeatCount="indefinite"/></circle>
+<circle cx="1166" cy="337" r="1.5" fill="#E8BB70" opacity=".45"><animate attributeName="opacity" values=".15;.65;.15" dur="8s" begin="-3.5999999999999996s" repeatCount="indefinite"/></circle>
+<circle cx="873" cy="430" r="1.8" fill="#DFD4C7" opacity=".45"><animate attributeName="opacity" values=".15;.65;.15" dur="12s" begin="-4.2s" repeatCount="indefinite"/></circle>
+<circle cx="1108" cy="421" r="1.6" fill="#DFD4C7" opacity=".45"><animate attributeName="opacity" values=".15;.65;.15" dur="9s" begin="-4.8s" repeatCount="indefinite"/></circle>
+<circle cx="786" cy="244" r="1.2" fill="#E8BB70" opacity=".45"><animate attributeName="opacity" values=".15;.65;.15" dur="10s" begin="-5.3999999999999995s" repeatCount="indefinite"/></circle>
+<circle cx="1033" cy="116" r="1.4" fill="#DFD4C7" opacity=".45"><animate attributeName="opacity" values=".15;.65;.15" dur="12s" begin="-6s" repeatCount="indefinite"/></circle>
+<circle cx="1057" cy="273" r="1.5" fill="#DFD4C7" opacity=".45"><animate attributeName="opacity" values=".15;.65;.15" dur="9s" begin="-6.6s" repeatCount="indefinite"/></circle>
+
+<!-- Left: always-readable typography, never hidden behind an animation. -->
+<g font-family="Arial,Helvetica,sans-serif">
+ <text x="42" y="47" fill="#E8BB70" font-size="14" letter-spacing="3" font-weight="700">NIKHIL / ORIGINAL WORK</text>
+ <text x="1160" y="47" text-anchor="end" fill="#CABAA6" font-family="monospace" font-size="13" letter-spacing="2">SELECTED PORTFOLIO • 2026</text>
+ <text x="43" y="132" fill="#E8BB70" font-family="monospace" font-size="17" letter-spacing="4">HELLO, I'M</text>
+ <text x="35" y="239" fill="#F8E8CF" font-size="113" font-weight="900" letter-spacing="-5">NIKHIL</text>
+ <text x="35" y="345" fill="url(#gold)" font-size="105" font-weight="900" letter-spacing="-5">SAI REDDY<tspan fill="#F8E8CF">.</tspan></text>
+ <rect x="43" y="362" width="282" height="29" rx="4" fill="#E8BB70"/>
+ <text x="58" y="382" fill="#111625" font-family="monospace" font-size="14" font-weight="700" letter-spacing="1">FRONTEND DEVELOPER</text>
+ <text x="345" y="382" fill="#F4E4D1" font-family="monospace" font-size="14" letter-spacing="1">/ AI &amp; ML STUDENT</text>
+ <text x="43" y="447" fill="#BEB1A6" font-family="monospace" font-size="13" letter-spacing="2">VISAKHAPATNAM, INDIA</text>
+ <text x="1154" y="447" text-anchor="end" fill="#BEB1A6" font-family="monospace" font-size="13" letter-spacing="2">EXPERIMENT · BUILD · REFINE</text>
+</g>
+
+<!-- Right: layered orbital data sculpture. -->
+<g transform="translate(969 235)">
+ <circle r="154" fill="none" stroke="#E8BB70" stroke-opacity=".17" stroke-width="1.5" stroke-dasharray="5 12"/>
+ <circle r="135" fill="none" stroke="#F0D9B2" stroke-opacity=".14" stroke-width="1.5"/>
+ <g>
+  <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="31s" repeatCount="indefinite"/>
+  <circle r="113" fill="none" stroke="url(#goldStroke)" stroke-width="2" stroke-opacity=".8" stroke-dasharray="170 535"/>
+  <circle cx="0" cy="-113" r="6" fill="#F8DBA4" filter="url(#subtleGlow)"/>
+  <circle cx="0" cy="-113" r="14" fill="none" stroke="#E8BB70" stroke-opacity=".4"><animate attributeName="r" values="8;19;8" dur="3.1s" repeatCount="indefinite"/></circle>
+ </g>
+ <g><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="26s" repeatCount="indefinite"/>
+  <ellipse rx="121" ry="59" transform="rotate(39)" fill="none" stroke="#E8BB70" stroke-opacity=".55" stroke-width="1.7"/>
+  <circle cx="121" cy="0" r="5" fill="#F1D7AC"/>
+ </g>
+ <g><animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="39s" repeatCount="indefinite"/>
+  <ellipse rx="121" ry="59" transform="rotate(-43)" fill="none" stroke="#C9AA84" stroke-opacity=".5" stroke-width="1.6"/>
+ </g>
+ <g fill="none" stroke="#D0AA79" stroke-opacity=".56">
+  <path d="M-80 -42L-2 -75 83 -28 71 67 -27 89 -80 -42M-2 -75L71 67M83 -28L-27 89" stroke-width="1.7"/>
+ </g>
+ <g fill="#E8BB70"><circle cx="-80" cy="-42" r="5"/><circle cx="-2" cy="-75" r="6"/><circle cx="83" cy="-28" r="5"/></g>
+ <g fill="#F6E1BC"><circle cx="71" cy="67" r="6"/><circle cx="-27" cy="89" r="5"/></g>
+ <circle r="5" fill="#FFF3DD" filter="url(#subtleGlow)">
+  <animateMotion path="M-80,-42 L-2,-75 L83,-28 L71,67 L-27,89 L-80,-42" dur="9s" repeatCount="indefinite"/>
+ </circle>
+ <circle r="37" fill="#E8BB70" fill-opacity=".085" stroke="#E8BB70" stroke-opacity=".35"/>
+ <circle r="11" fill="#F3D9A9" fill-opacity=".85"><animate attributeName="r" values="8;13;8" dur="5s" repeatCount="indefinite"/></circle>
+ <text x="0" y="171" text-anchor="middle" fill="#CDB9A0" font-family="monospace" font-size="13" letter-spacing="3">NEURAL / SYSTEMS</text>
+</g>
+
+<!-- Cinematic glint across the lower trim; all content stays visible when static. -->
+<rect x="-220" y="405" width="220" height="2" fill="url(#shine)">
+ <animate attributeName="x" values="-220;1280" dur="14s" repeatCount="indefinite"/>
+</rect>
+<g stroke="#D7BD95" stroke-width="2" fill="none">
+ <path d="M24 24h50m-50 0v50M1176 24h-50m50 0v50M24 456h50m-50 0v-25m1152 25h-50m50 0v-25" stroke-opacity=".48"/>
+</g>
+</g>
+<style>@media(prefers-reduced-motion:reduce){animate,animateMotion,animateTransform{display:none!important}}</style>
 </svg>
