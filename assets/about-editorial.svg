@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="248" viewBox="0 0 1100 248" role="img" aria-label="I am Nikhil Sai Reddy, a Computer Science student studying AI and ML at NIAT, Visakhapatnam. I enjoy engineering and visual storytelling, and learn by building useful experiences.">
+<defs>
+<linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1020"/><stop offset=".58" stop-color="#1B2134"/><stop offset="1" stop-color="#111526"/></linearGradient>
+<linearGradient id="champagne" x1="0" y1="0" x2="1"><stop stop-color="#B58B56"/><stop offset=".47" stop-color="#F7DDB4"/><stop offset=".7" stop-color="#E8BB70"/><stop offset="1" stop-color="#C29A69"/></linearGradient>
+<pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#AE9676" opacity=".13"/></pattern>
+</defs>
+<rect width="1100" height="248" rx="15" fill="url(#night)"/>
+<rect width="1100" height="248" rx="15" fill="url(#dots)"/>
+<rect x="1.5" y="1.5" width="1097" height="245" rx="13" stroke="#977956" stroke-opacity=".56" fill="none" stroke-width="1.5"/>
+<path d="M28 25H145M948 223H1072" fill="none" stroke="#E8BB70" stroke-width="2.3" stroke-linecap="round"/>
+
+<text x="31" y="53" font-family="monospace" font-size="15" fill="#E8BB70" letter-spacing="2">ABOUT THE BUILDER  /  NOT JUST THE BADGES</text>
+<text x="29" y="110" font-family="Arial,Helvetica,sans-serif" font-size="41" fill="#F8E8CF" font-weight="850" letter-spacing="-1.1">ENGINEERING MEETS</text>
+<text x="29" y="155" font-family="Arial,Helvetica,sans-serif" font-size="41" fill="#E8BB70" font-weight="850" letter-spacing="-1.1">VISUAL STORYTELLING.</text>
+<text x="31" y="196" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#F8E8CF" font-weight="500" letter-spacing="0">I'm a Computer Science (AI &amp; ML) student at NIAT, Visakhapatnam.</text>
+<text x="31" y="222" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#C0A98B" font-weight="500" letter-spacing="0">Still learning. Building real projects. Letting the work speak.</text>
+<g fill="none" stroke="#E8BB70" stroke-width="2" opacity=".6">
+<circle cx="944" cy="115" r="72"/><circle cx="944" cy="115" r="44"/><path d="M872 115H1016M944 43V187"/>
+</g><circle cx="944" cy="115" r="9" fill="#E8BB70" opacity=".9"/>
+</svg>
