@@ -11,32 +11,53 @@
 
 </div>
 
+<br/>
+
+<div align="center">
+
+*I like building useful things at the intersection of software, AI, and design.*
+
+</div>
+
 ---
 
-## About
+## A little about me
 
 I'm **Nikhil Sai Reddy**, a Computer Science student specializing in **Artificial Intelligence & Machine Learning** at **NIAT, Visakhapatnam**.
 
-I’m interested in building thoughtful software experiences — from modern web applications to practical AI-powered products. I enjoy learning by making things, testing ideas, and improving them through iteration.
+I learn by building: exploring an idea, shaping it into a working product, and refining the details until the experience feels right.
 
-| Education | Interests |
-|:--|:--|
-| B.Tech — CSE (AI & ML) | Artificial Intelligence & Machine Learning |
-| NIAT, Visakhapatnam | Full-stack development and product engineering |
-| Student developer | LLM applications and creative technology |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**EDUCATION**
+
+B.Tech — CSE (AI & ML)  
+NIAT, Visakhapatnam
+
+</td>
+<td width="50%" valign="top">
+
+**WHAT INTERESTS ME**
+
+Artificial Intelligence & LLMs  
+Software engineering  
+Product and interaction design
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Technology
+## Tools I work with
 
-**Languages**  
-Python · TypeScript · JavaScript · C
+<div align="center">
 
-**Frameworks & tools**  
-React · Next.js · Tailwind CSS · Node.js · Git · GitHub · VS Code
+<img src="https://skillicons.dev/icons?i=python,ts,js,c,react,nextjs,tailwind,nodejs,git,github,vscode&theme=dark" alt="Python, TypeScript, JavaScript, C, React, Next.js, Tailwind CSS, Node.js, Git, GitHub and VS Code" />
 
-**Areas I’m developing**  
-AI/ML · LLM-powered applications · Frontend engineering · Product design
+</div>
 
 ---
 
@@ -46,20 +67,28 @@ AI/ML · LLM-powered applications · Frontend engineering · Product design
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/nikhilsaireddyi/HeatSheild-AI-">
+<img src="./assets/heatshield-card.svg" width="100%" alt="HeatShield AI project artwork" />
+</a>
+
 ### HeatShield AI
 
 An AI-assisted project exploring heat-risk awareness and practical worker-safety insights.
 
-[View repository ↗](https://github.com/nikhilsaireddyi/HeatSheild-AI-)
+[Explore project ↗](https://github.com/nikhilsaireddyi/HeatSheild-AI-)
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/nikhilsaireddyi/ganesh-the-quest">
+<img src="./assets/ganesh-card.svg" width="100%" alt="GANESH: THE QUEST project artwork" />
+</a>
 
 ### GANESH: THE QUEST
 
 A festival-inspired 3D adventure game project focused on an interactive experience.
 
-[View repository ↗](https://github.com/nikhilsaireddyi/ganesh-the-quest)
+[Explore project ↗](https://github.com/nikhilsaireddyi/ganesh-the-quest)
 
 </td>
 </tr>
@@ -67,21 +96,19 @@ A festival-inspired 3D adventure game project focused on an interactive experien
 
 ---
 
-## Currently exploring
+## What I'm focused on
 
-- Building useful AI-powered applications
-- Improving software architecture and engineering fundamentals
-- Turning early ideas into polished, usable products
+- Building practical AI-powered applications
+- Strengthening software architecture and engineering fundamentals
+- Creating polished, intuitive digital experiences
 
 ---
 
 <div align="center">
 
-**Open to interesting ideas, collaboration, and learning together.**
+**Have an interesting idea? Let's build something meaningful.**
 
-<a href="https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432">LinkedIn</a> &nbsp;·&nbsp;
-<a href="mailto:nikhilsaireddyi@gmail.com">Get in touch</a>
-
-<sub>Designed with simplicity in mind.</sub>
+<a href="https://www.linkedin.com/in/nikhil-sai-reddy-induri-0ab948432">Connect on LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:nikhilsaireddyi@gmail.com">Send me an email</a>
 
 </div>
