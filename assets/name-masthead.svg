@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="132" viewBox="0 0 1000 132">
+  <defs>
+    <linearGradient id="name" x1="90" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5F1E8"/>
+      <stop offset=".58" stop-color="#D9D3C8"/>
+      <stop offset="1" stop-color="#B9A47F"/>
+    </linearGradient>
+  </defs>
+  <text x="500" y="78" text-anchor="middle" fill="url(#name)" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="bold" letter-spacing="5">NIKHIL SAI REDDY</text>
+  <path d="M365 105H635" stroke="#E04444" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="350" cy="105" r="3" fill="#B9A47F"/>
+  <circle cx="650" cy="105" r="3" fill="#B9A47F"/>
+</svg>
