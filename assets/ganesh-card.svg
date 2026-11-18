@@ -1,0 +1,8 @@
+<svg width="720" height="250" viewBox="0 0 720 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="b" x1="0" y1="0" x2="720" y2="250"><stop stop-color="#25211E"/><stop offset="1" stop-color="#514337"/></linearGradient><linearGradient id="a" x1="0" y1="0" x2="600" y2="230"><stop stop-color="#D7B77A"/><stop offset="1" stop-color="#E8D8B7"/></linearGradient></defs>
+<rect width="720" height="250" rx="18" fill="url(#b)"/>
+<circle cx="574" cy="125" r="82" stroke="#E7D9BE" stroke-opacity=".17"/><circle cx="574" cy="125" r="62" stroke="#E7D9BE" stroke-opacity=".24" stroke-dasharray="2 8"/>
+<path d="M574 58L591 105L641 111L603 142L615 191L574 164L533 191L545 142L507 111L557 105L574 58Z" fill="url(#a)" fill-opacity=".88"/>
+<path d="M574 84V166M533 125H615" stroke="#3C342D" stroke-opacity=".55" stroke-width="2"/>
+<text x="58" y="76" fill="#CDBD9F" font-family="Arial" font-size="13" letter-spacing="3">3D · ADVENTURE · FESTIVAL</text><text x="56" y="116" fill="#F5F0E7" font-family="Arial" font-size="32" font-weight="600">GANESH: THE QUEST</text><text x="58" y="210" fill="#D1C5B4" font-family="Arial" font-size="14">A celebration shaped into an interactive journey.</text>
+</svg>
