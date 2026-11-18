@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="230" viewBox="0 0 600 230" role="img" aria-label="GANESH: THE QUEST project card"><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1120"/><stop offset="1" stop-color="#17122b"/></linearGradient><pattern id="g" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#b9dcec" stroke-opacity=".08"/></pattern></defs><rect width="600" height="230" rx="16" fill="url(#bg)"/><rect width="600" height="230" fill="url(#g)"/><path d="M25 25h105M25 25v38M575 25h-85M575 25v38" stroke="#b5fc6c" stroke-width="2" fill="none"/><text x="37" y="55" font-family="monospace" font-size="14" fill="#b5fc6c" letter-spacing="2">PROJECT // 001</text><text x="37" y="109" font-family="sans-serif" font-size="32" font-weight="800" fill="#f4f6ff">GANESH: THE QUEST</text><text x="39" y="148" font-family="monospace" font-size="16" fill="#b8c7e2">A PLAYABLE FESTIVAL EXPERIMENT</text><path d="M38 173h520" stroke="#b5fc6c" stroke-opacity=".5"/><text x="39" y="199" font-family="monospace" font-size="13" fill="#9ab2d0">GAMEPLAY  /  INTERACTION  /  CREATIVE CODE</text><path d="M510 61l15-15 15 15-15 15z" stroke="#b5fc6c" fill="none" stroke-width="2"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="350" viewBox="0 0 640 350" role="img" aria-label="Ganesh: The Quest, browser festival adventure game written with Canvas and JavaScript.">
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#221B2F"/><stop offset="1" stop-color="#553026"/></linearGradient><radialGradient id="g"><stop stop-color="#FFC477" stop-opacity=".5"/><stop offset="1" stop-color="#FFC477" stop-opacity="0"/></radialGradient></defs>
+<rect width="640" height="350" rx="17" fill="url(#s)"/>
+<circle cx="496" cy="175" r="175" fill="url(#g)"/>
+<g opacity=".7"><circle cx="469" cy="113" r="58" fill="#F2B474"/><circle cx="469" cy="113" r="72" stroke="#F2B474" stroke-opacity=".4" fill="none"/></g>
+<path d="M0 300L92 246 146 270 218 214 297 260 385 211 489 259 573 211 640 239V350H0" fill="#1A1720" opacity=".8"/>
+<g stroke="#FBCA8A" stroke-width="4" fill="none"><path d="M310 270V173L395 113 480 173V270"/><path d="M288 173h214M320 270h149"/><path d="M394 115V90"/><path d="M320 216h147"/></g>
+<g stroke="#F7D49F" stroke-width="3"><path d="M312 172L395 111 476 172"/><path d="M330 174l65-44 66 44"/></g>
+<g fill="#FAAB57"><circle cx="318" cy="175" r="5"/><circle cx="338" cy="175" r="5"/><circle cx="357" cy="175" r="5"/><circle cx="377" cy="175" r="5"/><circle cx="398" cy="175" r="5"/><circle cx="419" cy="175" r="5"/><circle cx="440" cy="175" r="5"/><circle cx="460" cy="175" r="5"/><circle cx="479" cy="175" r="5"/></g>
+<rect x="22" y="20" width="171" height="30" rx="5" fill="#F6BE76"/>
+<text x="35" y="41" font-family="monospace" font-size="14" font-weight="bold" fill="#231B20">PROJECT 01 / GAME</text>
+<text x="23" y="91" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="35">GANESH</text>
+<text x="23" y="127" fill="#FFD29C" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="33">THE QUEST</text>
+<text x="24" y="160" fill="#E9D4CB" font-family="monospace" font-size="14">A FESTIVAL, REIMAGINED</text>
+<rect x="22" y="301" width="596" height="32" rx="6" fill="#17141B" fill-opacity=".93"/>
+<text x="36" y="322" fill="#F2CDAC" font-family="monospace" font-size="13">CANVAS 2D  /  WEB AUDIO  /  JAVASCRIPT</text>
+</svg>
